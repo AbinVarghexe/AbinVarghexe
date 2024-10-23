@@ -39,8 +39,6 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
@@ -88,12 +86,6 @@
     <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="70px">
   </h3>
 <hr>
-
-
-
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/><br>
-</p>
 
 <p align="center">
 <a href=https://www.linkedin.com/in/abinvarghese0/ target="blank"><img align="center"  src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin" height="40" width="40" /></a>
