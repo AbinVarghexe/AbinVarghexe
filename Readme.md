@@ -1,4 +1,7 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=AbinVarghexe" alt="views" /></p>
+<img align="right" src="https://wakatime.com/badge/user/f61bb49b-74df-42eb-86c0-8bbe389ae7d4/project/ade26d90-dac4-4313-9c5a-202604e96243.svg" alt="views" /><img align="left" src="https://komarev.com/ghpvc/?username=AbinVarghexe" alt="views" />
+
+
+
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Cocogoose&weight=900&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hai..!!+%F0%9F%91%8B+I%27m+Abin+Varghese" /></h1>
 
 <h3><b>Check out my Portfolio</b> <a href="https://Abin-Varghese.tech">Abin.web 😁</a></h3>
@@ -7,10 +10,16 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinVarghexe&theme=github-compact&height=300" alt="GitHub Activity Graph" />
 
-  <br /><br /><img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing" />
-  <img src="https://spotifynowplayin.vercel.app/api/spot?u=1" alt="Spotify Now Playing 2" />
+<br /><br /><img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing" />
+<img src="https://spotifynowplayin.vercel.app/api/spot?u=1" alt="Spotify Now Playing 2" />
+
 </div>
 <p><b>I'm a passionate Full-Stack Developer from India, dedicated to crafting seamless, user-friendly software. 🎨📱 With expertise across both front-end and back-end technologies, I aim to create solutions that balance functionality and intuitive user experiences. 🚀💻</b></p>
+
+
+I'm a passionate Full-Stack Developer from India, dedicated to crafting seamless, user-friendly software. 🎨📱 With expertise across both front-end and back-end technologies, I aim to create solutions that balance functionality and intuitive user experiences. 🚀💻
+
+I'm a passionate Full-Stack Developer from India, dedicated to crafting seamless, user-friendly software. 🎨📱 With expertise across both front-end and back-end technologies, I aim to create solutions that balance functionality and intuitive user experiences. 🚀💻
 
 <h2 align="left"><b>Connect with me:</b></h2>
 <p align="left">
@@ -22,10 +31,6 @@
 <h2><b>About Me</b></h2>
 <p><b>Hi! I’m Abin Varghese, a Full-Stack Developer and Design Enthusiast from India. 🇮🇳💻 I started my coding journey two years ago, and I’m driven by a passion for creating visually appealing, user-centric applications. 🎨✨ My primary goal is to make technology more accessible 🌐 and impactful through thoughtful design 🎯 and seamless functionality. 🚀📱 Every project is an opportunity to bring ideas to life and push boundaries! 💡🔧</b></p>
 <p><b>My technical skills include **React** ⚛️, **Next.js** 🌐, **HTML/CSS** 🎨, along with a foundation in **Python** 🐍, **C** 💻, and **Java** ☕. Currently, I’m focused on honing my design skills alongside my coding knowledge to deliver intuitive, user-friendly experiences across web applications. ✨📱</b></p>
-
-<br/>
-
-[![wakatime](https://wakatime.com/badge/user/f61bb49b-74df-42eb-86c0-8bbe389ae7d4/project/ade26d90-dac4-4313-9c5a-202604e96243.svg)](https://wakatime.com/badge/user/f61bb49b-74df-42eb-86c0-8bbe389ae7d4/project/ade26d90-dac4-4313-9c5a-202604e96243)
 
 
 <h2 align="center"><b>🌐 Languages-Frameworks-Tools I’m using 🌐</b></h2>
@@ -54,4 +59,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinVarghexe&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br/>
 <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=AbinVarghexe&theme=dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
 </div>
-
