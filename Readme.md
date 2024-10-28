@@ -10,9 +10,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinVarghexe&theme=github-compact&height=300" alt="GitHub Activity Graph" />
 
-<br /><br /><img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing" />
-<img src="https://spotifynowplayin.vercel.app/api/spot?u=1" alt="Spotify Now Playing 2" />
-
 </div>
 <p><b>I'm a passionate Full-Stack Developer from India, dedicated to crafting seamless, user-friendly software. 🎨📱 With expertise across both front-end and back-end technologies, I aim to create solutions that balance functionality and intuitive user experiences. 🚀💻</b></p>
 
