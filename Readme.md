@@ -23,7 +23,6 @@
   <a href="https://www.linkedin.com/in/toabinvarghese/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarnathcdj" height="30" width="40" /></a>
   <a href="mailto:toabinvarghese" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/email-open.png" alt="AbinVarghexe" height="40" width="40" /></a>
 </p>
-<hr/>
 
 <br/>
 
