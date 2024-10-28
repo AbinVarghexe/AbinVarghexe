@@ -1,4 +1,4 @@
-<img align="right" src="https://wakatime.com/badge/user/f61bb49b-74df-42eb-86c0-8bbe389ae7d4/project/ade26d90-dac4-4313-9c5a-202604e96243.svg" alt="views" /><img align="left" src="https://komarev.com/ghpvc/?username=AbinVarghexe" alt="views" />
+<img align="right" src="https://wakatime.com/badge/user/f61bb49b-74df-42eb-86c0-8bbe389ae7d4.svg" alt="views" /><img align="left" src="https://komarev.com/ghpvc/?username=AbinVarghexe" alt="views" />
 
 
 
