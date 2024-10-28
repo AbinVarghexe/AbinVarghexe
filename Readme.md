@@ -23,10 +23,12 @@
   <a href="https://www.linkedin.com/in/toabinvarghese/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarnathcdj" height="30" width="40" /></a>
   <a href="mailto:toabinvarghese" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/email-open.png" alt="AbinVarghexe" height="40" width="40" /></a>
 </p>
+<hr/>
 
 <br/>
 
 <h2><b>About Me</b></h2>
+<br/>
 <p>Hi! I’m Abin Varghese, a Full-Stack Developer and Design Enthusiast from India. 🇮🇳💻 I started my coding journey two years ago, and I’m driven by a passion for creating visually appealing, user-centric applications. 🎨✨ My primary goal is to make technology more accessible 🌐 and impactful through thoughtful design 🎯 and seamless functionality. 🚀📱 Every project is an opportunity to bring ideas to life and push boundaries! 💡🔧</b></p>
 <p><b>My technical skills include React ⚛️, Next.js 🌐, HTML/CSS 🎨, along with a foundation in Python 🐍, C 💻, and Java ☕. Currently, I’m focused on honing my design skills alongside my coding knowledge to deliver intuitive, user-friendly experiences across web applications. ✨📱</p>
 
