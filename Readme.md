@@ -9,9 +9,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinVarghexe&theme=github-compact&height=300" alt="GitHub Activity Graph" />
 </div>
 
+
 <br/>
 
+
 <p>I'm a passionate Full-Stack Developer from India, dedicated to crafting seamless, user-friendly software. 🎨📱 With expertise across both front-end and back-end technologies, I aim to create solutions that balance functionality and intuitive user experiences. 🚀💻</p>
+
+<br/>
 
 <h2 align="left"><b>Connect with me:</b></h2>
 <p align="left">
@@ -20,9 +24,13 @@
   <a href="mailto:toabinvarghese" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/email-open.png" alt="AbinVarghexe" height="40" width="40" /></a>
 </p>
 
+<br/>
+
 <h2><b>About Me</b></h2>
 <p>Hi! I’m Abin Varghese, a Full-Stack Developer and Design Enthusiast from India. 🇮🇳💻 I started my coding journey two years ago, and I’m driven by a passion for creating visually appealing, user-centric applications. 🎨✨ My primary goal is to make technology more accessible 🌐 and impactful through thoughtful design 🎯 and seamless functionality. 🚀📱 Every project is an opportunity to bring ideas to life and push boundaries! 💡🔧</b></p>
 <p><b>My technical skills include React ⚛️, Next.js 🌐, HTML/CSS 🎨, along with a foundation in Python 🐍, C 💻, and Java ☕. Currently, I’m focused on honing my design skills alongside my coding knowledge to deliver intuitive, user-friendly experiences across web applications. ✨📱</p>
+
+<br/>
 
 <h2 align="center"><b>🌐 Languages-Frameworks-Tools I’m using 🌐</b></h2>
 <br/>
