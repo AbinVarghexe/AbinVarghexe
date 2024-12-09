@@ -55,15 +55,12 @@
 
 <h2 align="left"><b>Github Stats</b></h2>
 
-<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=AbinVarghexe&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinVarghexe&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br/>
-<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=AbinVarghexe&theme=dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
-
 ![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-
 ![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinVarghexe&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br/>
+
+
 
 </div>
