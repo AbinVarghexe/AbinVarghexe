@@ -59,7 +59,7 @@
 ![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/overview.svg#gh-light-mode-only)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinVarghexe&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="720">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinVarghexe&theme=dark&hide_border=true" alt="GitHub Streak Stats">
 <br/>
 
 
