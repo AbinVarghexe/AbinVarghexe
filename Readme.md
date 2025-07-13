@@ -8,8 +8,17 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinVarghexe&theme=github-compact&height=400&point=3461eb&line=6aa66a&area_color=3e3e40&area=true&hide_border=true&custom_title=My%20This%20Month%27s%20Activity%20Graph%20%F0%9F%98%89&radius=4" alt="GitHub Activity Graph" />
 </div>
+<br/>
+<br/>
 
-
+<div align="center" style="width: 30%; max-width: 200px; height: 30px;">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1307f8&bar_color_cover=false"
+         alt="Spotify Now Playing" 
+         style="width: 40%; height: 40%;"/>
+  </a>
+</div>
+<br/>
 <br/>
 
 
