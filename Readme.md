@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Cocogoose&weight=900&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hai..!!+%F0%9F%91%8B+I%27m+Abin+Varghese" /></h1>
 
-<h3><b>Check out my Portfolio</b> <a href="https://Abin-Varghese.tech">Abin.web 😁</a></h3>
+<h3><b>Check out my Portfolio</b> <a href="https://abinvarghese.me">Abin.web 😁</a></h3>
 <br/>
 
 <div align="center">
