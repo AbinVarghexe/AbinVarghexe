@@ -171,12 +171,11 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 <br/><br/>
 
 <!-- Connected Spotify Stream -->
-<a href="https://spotify-github-profile.kittinanx.com/api/login">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=080D1A&amp;bar_color=3B82F6&amp;bar_color_cover=false" width="400" alt="Spotify Player" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&amp;redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" alt="Spotify Player" />
 </a>
 <br/>
-<sub><b>Audio Stream</b> &bull; Live Spotify Telemetry &bull; Click card to connect / re-authenticate</sub>
-
+<sub><b>Audio Stream</b> &bull; Powered by Spotify</sub>
 </div>
 
 ---
