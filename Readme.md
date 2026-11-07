@@ -1,21 +1,17 @@
 <div align="center">
 
-```text
- █████╗ ██████╗ ██╗███╗   ██╗    ██╗   ██╗ █████╗ ██████╗  ██████╗ ██╗  ██╗███████╗███████╗███████╗
-██╔══██╗██╔══██╗██║████╗  ██║    ██║   ██║██╔══██╗██╔══██╗██╔════╝ ██║  ██║██╔════╝██╔════╝██╔════╝
-███████║██████╔╝██║██╔██╗ ██║    ██║   ██║███████║██████╔╝██║  ███╗███████║█████╗  ███████╗█████╗  
-██╔══██║██╔══██╗██║██║╚██╗██║    ╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██╔══██║██╔══╝  ╚════██║██╔══╝  
-██║  ██║██████╔╝██║██║ ╚████║     ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║  ██║███████╗███████║███████╗
-╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝      ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
-```
+<!-- ASCII Masthead in Pure Black, Blue, White, Grey Palette -->
+<a href="https://www.abinvarghese.app/">
+  <img src="assets/ascii_header.svg" width="100%" alt="Abin Varghese" />
+</a>
 
-<br/>
+<br/><br/>
 
 <table border="0" style="border: none;">
   <tr>
     <td align="center" style="border: none; padding-right: 28px;">
       <a href="https://www.abinvarghese.app/">
-        <img src="assets/profile.png" width="160" height="160" style="border-radius: 28px; border: 2px solid #3B82F6;" alt="Abin Varghese" />
+        <img src="assets/profile_blue.png" width="160" height="160" style="border-radius: 28px; border: 2px solid #3B82F6;" alt="Abin Varghese" />
       </a>
     </td>
     <td align="left" style="border: none;">
@@ -24,13 +20,13 @@
 <b>ROLE</b>       &bull; Full-Stack Engineer &bull; UI/UX Designer
 <b>LOCATION</b>   &bull; Idukki, Kerala, India [09°51'N 76°58'E]
 <b>FOCUS</b>      &bull; High-Performance Systems &bull; Thoughtful Interfaces
-<b>PALETTE</b>    &bull; #000000 &bull; #3B82F6 &bull; #FFFFFF &bull; #A1A1AA
+<b>PALETTE</b>    &bull; #070A10 &bull; #3B82F6 &bull; #FFFFFF &bull; #A1A1AA
 </pre>
     </td>
   </tr>
 </table>
 
-<!-- Dynamic Typewriter Animation (Black, Blue, White, Grey Harmony) -->
+<!-- Dynamic Typewriter Animation in Electric Blue -->
 <a href="https://www.abinvarghese.app/">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=17&duration=3600&pause=1400&color=7DA3F6&center=true&vCenter=true&width=800&height=40&lines=I+design+with+purpose+and+build+with+precision.;Every+pixel+and+every+line+of+code+is+intentional.;Full-Stack+Developer+%C2%B7+UI%2FUX+Designer+%C2%B7+Creative+Technologist." alt="Typewriter Subtitle" />
 </a>
@@ -182,29 +178,22 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
   <tr>
     <td align="center" style="border: none; padding: 16px;">
       <a href="https://github.com/yalongwastaken/git-koi">
-        <img src="koi/koi.gif" width="220" alt="Living Git-Koi" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/yalongwastaken/git-koi/main/docs/sample.gif';" />
+        <img src="koi/koi.gif" width="220" alt="Living Git-Koi" />
       </a>
       <br/>
       <sub><b>Living Koi</b> &bull; Synchronized daily to commit activity via <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
     </td>
     <td align="center" style="border: none; padding: 16px;">
       <a href="https://open.spotify.com">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&cover_image=true&theme=novatorem&show_offline=true&background_color=0B0F17&interchange=false&bar_color=7DA3F6&bar_color_cover=false" width="340" alt="Spotify Player" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&cover_image=false&theme=novatorem&show_offline=true&background_color=0B0F17&interchange=false&bar_color=7DA3F6&bar_color_cover=false" width="340" alt="Spotify Player" />
       </a>
       <br/>
-      <sub><b>Now Playing</b> &bull; Soundtracks powering development</sub>
+      <sub><b>Audio Stream</b> &bull; Soundtracks powering development</sub>
     </td>
   </tr>
 </table>
 
 <br/>
-
-<!-- Monthly Activity Wave styled with abinvarghese.app black & blue tokens -->
-<a href="https://github.com/AbinVarghexe">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinVarghexe&theme=github-compact&bg_color=0B0F17&color=F9FAFB&line=7DA3F6&point=3B5BDB&area=true&area_color=0020D7&hide_border=true&radius=12&custom_title=Commit%20Activity" width="100%" alt="Commit Activity Graph" />
-</a>
-
-<br/><br/>
 
 <table border="0" style="border: none;">
   <tr>
