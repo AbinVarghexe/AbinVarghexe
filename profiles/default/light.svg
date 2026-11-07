@@ -1,5 +1,5 @@
 
-<svg width="800" height="848" viewBox="0 0 800 848" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="440" viewBox="0 0 800 440" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="gitascii-canvas-bg" width="800" height="848" fill="#ffffff" rx="12" />
+  <rect class="gitascii-canvas-bg" width="800" height="440" fill="none" rx="12" />
 
   
     <g transform="translate(0, 376)" id="widget-widget_998d92b9-5534-4998-9a3d-db8a7bb8e889">
@@ -100,45 +100,45 @@
       <defs>
         
     <linearGradient id="grad-pill-instagram-126-2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"></stop>
-<stop offset="10%" stop-color="#111111"></stop>
-<stop offset="50%" stop-color="#eeeeee"></stop>
-<stop offset="60%" stop-color="#E4405F"></stop>
-<stop offset="80%" stop-color="#111111"></stop>
-<stop offset="100%" stop-color="#555555"></stop>
+      <stop offset="0%" stop-color="#1D4ED8"></stop>
+<stop offset="15%" stop-color="#EFF6FF"></stop>
+<stop offset="45%" stop-color="#3B82F6"></stop>
+<stop offset="65%" stop-color="#2563EB"></stop>
+<stop offset="85%" stop-color="#93C5FD"></stop>
+<stop offset="100%" stop-color="#1E40AF"></stop>
       <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite" />
     </linearGradient>
   
 
     <linearGradient id="grad-pill-gmail-264-2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"></stop>
-<stop offset="10%" stop-color="#111111"></stop>
-<stop offset="50%" stop-color="#eeeeee"></stop>
-<stop offset="60%" stop-color="#EA4335"></stop>
-<stop offset="80%" stop-color="#111111"></stop>
-<stop offset="100%" stop-color="#555555"></stop>
+      <stop offset="0%" stop-color="#1D4ED8"></stop>
+<stop offset="15%" stop-color="#EFF6FF"></stop>
+<stop offset="45%" stop-color="#3B82F6"></stop>
+<stop offset="65%" stop-color="#2563EB"></stop>
+<stop offset="85%" stop-color="#93C5FD"></stop>
+<stop offset="100%" stop-color="#1E40AF"></stop>
       <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite" />
     </linearGradient>
   
 
     <linearGradient id="grad-pill-portfolio-370-2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"></stop>
-<stop offset="10%" stop-color="#111111"></stop>
-<stop offset="50%" stop-color="#eeeeee"></stop>
-<stop offset="60%" stop-color="#10B981"></stop>
-<stop offset="80%" stop-color="#111111"></stop>
-<stop offset="100%" stop-color="#555555"></stop>
+      <stop offset="0%" stop-color="#1D4ED8"></stop>
+<stop offset="15%" stop-color="#EFF6FF"></stop>
+<stop offset="45%" stop-color="#3B82F6"></stop>
+<stop offset="65%" stop-color="#2563EB"></stop>
+<stop offset="85%" stop-color="#93C5FD"></stop>
+<stop offset="100%" stop-color="#1E40AF"></stop>
       <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite" />
     </linearGradient>
   
 
     <linearGradient id="grad-pill-linkedin-556-2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"></stop>
-<stop offset="10%" stop-color="#111111"></stop>
-<stop offset="50%" stop-color="#eeeeee"></stop>
-<stop offset="60%" stop-color="#0A66C2"></stop>
-<stop offset="80%" stop-color="#111111"></stop>
-<stop offset="100%" stop-color="#555555"></stop>
+      <stop offset="0%" stop-color="#1D4ED8"></stop>
+<stop offset="15%" stop-color="#EFF6FF"></stop>
+<stop offset="45%" stop-color="#3B82F6"></stop>
+<stop offset="65%" stop-color="#2563EB"></stop>
+<stop offset="85%" stop-color="#93C5FD"></stop>
+<stop offset="100%" stop-color="#1E40AF"></stop>
       <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite" />
     </linearGradient>
   
@@ -150,7 +150,7 @@
       <rect x="126" y="2" width="126" height="44" rx="22" ry="22" fill="none" stroke="url(#grad-pill-instagram-126-2)" stroke-width="1.8" />
 
       <!-- Dark container background with subtle glow -->
-      <rect class="anim-target" x="127" y="3" width="124" height="42" rx="21" ry="21" fill="#2b0a2b"  style="animation-delay: 0ms; transform-origin: center;" />
+      <rect class="anim-target" x="127" y="3" width="124" height="42" rx="21" ry="21" fill="#EFF6FF"  style="animation-delay: 0ms; transform-origin: center;" />
 
       <!-- Inner highlight layer -->
       <rect class="anim-target" x="127" y="3" width="124" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)"  style="animation-delay: 27ms; transform-origin: center;" />
@@ -170,7 +170,7 @@
       <rect x="264" y="2" width="94" height="44" rx="22" ry="22" fill="none" stroke="url(#grad-pill-gmail-264-2)" stroke-width="1.8" />
 
       <!-- Dark container background with subtle glow -->
-      <rect class="anim-target" x="265" y="3" width="92" height="42" rx="21" ry="21" fill="#331010"  style="animation-delay: 109ms; transform-origin: center;" />
+      <rect class="anim-target" x="265" y="3" width="92" height="42" rx="21" ry="21" fill="#EFF6FF"  style="animation-delay: 109ms; transform-origin: center;" />
 
       <!-- Inner highlight layer -->
       <rect class="anim-target" x="265" y="3" width="92" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)"  style="animation-delay: 136ms; transform-origin: center;" />
@@ -190,7 +190,7 @@
       <rect x="370" y="2" width="174" height="44" rx="22" ry="22" fill="none" stroke="url(#grad-pill-portfolio-370-2)" stroke-width="1.8" />
 
       <!-- Dark container background with subtle glow -->
-      <rect class="anim-target" x="371" y="3" width="172" height="42" rx="21" ry="21" fill="#0f241d"  style="animation-delay: 273ms; transform-origin: center;" />
+      <rect class="anim-target" x="371" y="3" width="172" height="42" rx="21" ry="21" fill="#EFF6FF"  style="animation-delay: 273ms; transform-origin: center;" />
 
       <!-- Inner highlight layer -->
       <rect class="anim-target" x="371" y="3" width="172" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)"  style="animation-delay: 300ms; transform-origin: center;" />
@@ -210,7 +210,7 @@
       <rect x="556" y="2" width="118" height="44" rx="22" ry="22" fill="none" stroke="url(#grad-pill-linkedin-556-2)" stroke-width="1.8" />
 
       <!-- Dark container background with subtle glow -->
-      <rect class="anim-target" x="557" y="3" width="116" height="42" rx="21" ry="21" fill="#002244"  style="animation-delay: 382ms; transform-origin: center;" />
+      <rect class="anim-target" x="557" y="3" width="116" height="42" rx="21" ry="21" fill="#EFF6FF"  style="animation-delay: 382ms; transform-origin: center;" />
 
       <!-- Inner highlight layer -->
       <rect class="anim-target" x="557" y="3" width="116" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)"  style="animation-delay: 409ms; transform-origin: center;" />
@@ -508,79 +508,6 @@
     </g>
   
 
-    <g transform="translate(0, 712)" id="widget-widget_1794026227344_3">
-
-      
-        <style>
-          @keyframes svg-fade-in-widget_1794026227344_3-9 {
-            from { opacity: 0; }
-            to { opacity: 1; }
-          }
-          @keyframes svg-slide-up-widget_1794026227344_3-9 {
-            from { opacity: 0; transform: translateY(8px); }
-            to { opacity: 1; transform: translateY(0); }
-          }
-          @keyframes svg-slide-down-widget_1794026227344_3-9 {
-            from { opacity: 0; transform: translateY(-8px); }
-            to { opacity: 1; transform: translateY(0); }
-          }
-          @keyframes svg-slide-left-widget_1794026227344_3-9 {
-            from { opacity: 0; transform: translateX(12px); }
-            to { opacity: 1; transform: translateX(0); }
-          }
-          @keyframes svg-slide-right-widget_1794026227344_3-9 {
-            from { opacity: 0; transform: translateX(-12px); }
-            to { opacity: 1; transform: translateX(0); }
-          }
-          @keyframes svg-zoom-in-widget_1794026227344_3-9 {
-            from { opacity: 0; transform: scale(0.9); }
-            to { opacity: 1; transform: scale(1); }
-          }
-          @keyframes svg-zoom-out-widget_1794026227344_3-9 {
-            from { opacity: 0; transform: scale(1.1); }
-            to { opacity: 1; transform: scale(1); }
-          }
-          @keyframes svg-flip-x-widget_1794026227344_3-9 {
-            from { opacity: 0; transform: perspective(400px) rotateX(90deg); }
-            to { opacity: 1; transform: perspective(400px) rotateX(0deg); }
-          }
-          @keyframes svg-flip-y-widget_1794026227344_3-9 {
-            from { opacity: 0; transform: perspective(400px) rotateY(90deg); }
-            to { opacity: 1; transform: perspective(400px) rotateY(0deg); }
-          }
-          @keyframes svg-glitch-widget_1794026227344_3-9 {
-            0% { opacity: 0; transform: skewX(10deg); }
-            20% { opacity: 0.8; transform: skewX(-10deg); }
-            40% { opacity: 0.5; transform: skewX(5deg); }
-            60% { opacity: 0.9; transform: skewX(0deg); }
-            100% { opacity: 1; }
-          }
-          @keyframes svg-scan-lines-widget_1794026227344_3-9 {
-            0% { opacity: 0; clip-path: inset(100% 0 0 0); }
-            100% { opacity: 1; clip-path: inset(0 0 0 0); }
-          }
-
-          #widget-widget_1794026227344_3 .anim-target {
-            animation-name: svg-glitch-widget_1794026227344_3-9;
-            animation-duration: 1500ms;
-            animation-timing-function: ease-out;
-            animation-fill-mode: both;
-          }
-        </style>
-      
-      
-      
-      
-      
-    <svg x="16" y="16" width="768" height="88" viewBox="0 0 806.3999999999999 72" preserveAspectRatio="xMidYMid meet">
-      <text class="anim-target" x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20" y="12.239999999999998" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#3b82f6" xml:space="preserve" style="animation-delay: 0ms; transform-origin: center;"> ▄████▄  ███████▄ ████████ ██    ██      ██    ██  ▄████▄  ███████▄  ▄████▄  ██    ██ ████████  ▄█████  ████████</text>
-<text class="anim-target" x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20" y="26.639999999999997" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#3b82f6" xml:space="preserve" style="animation-delay: 180ms; transform-origin: center;">██    ██ ██    ██    ██    ███   ██      ██    ██ ██    ██ ██    ██ ██    ▀▀ ██    ██ ██       ██       ██      </text>
-<text class="anim-target" x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20" y="41.04" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#3b82f6" xml:space="preserve" style="animation-delay: 360ms; transform-origin: center;">████████ ███████▀    ██    ██▀█  ██      ██    ██ ████████ ███████▀ ██  ████ ████████ ██████    ▀████▄  ██████  </text>
-<text class="anim-target" x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20" y="55.44" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#3b82f6" xml:space="preserve" style="animation-delay: 540ms; transform-origin: center;">██    ██ ██    ██    ██    ██ ▀█ ██       ▀████▀  ██    ██ ██  ▀██▄ ██    ██ ██    ██ ██             ██ ██      </text>
-<text class="anim-target" x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60 640.80 648.00 655.20 662.40 669.60 676.80 684.00 691.20 698.40 705.60 712.80 720.00 727.20 734.40 741.60 748.80 756.00 763.20 770.40 777.60 784.80 792.00 799.20" y="69.83999999999999" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#3b82f6" xml:space="preserve" style="animation-delay: 720ms; transform-origin: center;">██    ██ ███████▀ ████████ ██   ███         ▀▀    ██    ██ ██    ██  ▀████▀  ██    ██ ████████ ██████▀  ████████</text>
-    </svg>
-  
-  
-    </g>
+    
   
 </svg>
