@@ -24,7 +24,7 @@
 <b>LOCATION</b>   &bull; Idukki, Kerala, India [09°51'N 76°58'E]
 <b>FOCUS</b>      &bull; High-Performance Systems &bull; Thoughtful Interfaces
 <b>PALETTE</b>    &bull; #070A10 &bull; #3B82F6 &bull; #FFFFFF &bull; #A1A1AA
-<b>ENGINE</b>     &bull; Living Git-Koi &bull; Neural ASCII Terminal
+<b>ENGINE</b>     &bull; 3D Progress Tracker &bull; Living Git-Koi
 </pre>
     </td>
   </tr>
@@ -178,6 +178,7 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 
 <div align="center">
 
+<!-- Living Koi & Spotify Audio Stream -->
 <table border="0" style="border: none;">
   <tr>
     <td align="center" style="border: none; padding: 16px;">
@@ -199,6 +200,22 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 
 <br/>
 
+<!-- 3D Isometric Progress Tracker -->
+<table border="0" style="border: none; width: 100%;">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/AbinVarghexe">
+        <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Progress Tracker" style="border-radius: 16px; border: 1px solid #1F2937;" />
+      </a>
+      <br/>
+      <sub><b>3D Progress Tracker</b> &bull; Isometric commit landscape in night view telemetry</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Streak & Metrics -->
 <table border="0" style="border: none;">
   <tr>
     <td align="center" style="border: none;">
