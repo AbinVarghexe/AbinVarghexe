@@ -1,4 +1,4 @@
-<svg width="800" height="530" viewBox="0 0 800 530" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 800 530" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
   <defs>
     <!-- Background Card Gradient -->
     <linearGradient id="cardGrad_light" x1="0" y1="0" x2="0" y2="1">
