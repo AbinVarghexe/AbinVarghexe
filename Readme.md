@@ -1,23 +1,48 @@
 <div align="center">
 
-# Abin Varghese
+```text
+ █████╗ ██████╗ ██╗███╗   ██╗    ██╗   ██╗ █████╗ ██████╗  ██████╗ ██╗  ██╗███████╗███████╗███████╗
+██╔══██╗██╔══██╗██║████╗  ██║    ██║   ██║██╔══██╗██╔══██╗██╔════╝ ██║  ██║██╔════╝██╔════╝██╔════╝
+███████║██████╔╝██║██╔██╗ ██║    ██║   ██║███████║██████╔╝██║  ███╗███████║█████╗  ███████╗█████╗  
+██╔══██║██╔══██╗██║██║╚██╗██║    ╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██╔══██║██╔══╝  ╚════██║██╔══╝  
+██║  ██║██████╔╝██║██║ ╚████║     ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║  ██║███████╗███████║███████╗
+╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝      ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
+```
 
-<p>
-  <strong>Full-Stack Developer &bull; UI/UX Designer &bull; Creative Technologist</strong>
-</p>
+<br/>
 
-<!-- Typewriter animation reflecting abinvarghese.app design tokens -->
+<table border="0" style="border: none;">
+  <tr>
+    <td align="center" style="border: none; padding-right: 28px;">
+      <a href="https://www.abinvarghese.app/">
+        <img src="assets/profile.png" width="160" height="160" style="border-radius: 28px; border: 2px solid #3B82F6;" alt="Abin Varghese" />
+      </a>
+    </td>
+    <td align="left" style="border: none;">
+<pre>
+<b>IDENTITY</b>   &bull; Abin Varghese
+<b>ROLE</b>       &bull; Full-Stack Engineer &bull; UI/UX Designer
+<b>LOCATION</b>   &bull; Idukki, Kerala, India [09°51'N 76°58'E]
+<b>FOCUS</b>      &bull; High-Performance Systems &bull; Thoughtful Interfaces
+<b>PALETTE</b>    &bull; #000000 &bull; #3B82F6 &bull; #FFFFFF &bull; #A1A1AA
+</pre>
+    </td>
+  </tr>
+</table>
+
+<!-- Dynamic Typewriter Animation (Black, Blue, White, Grey Harmony) -->
 <a href="https://www.abinvarghese.app/">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&size=18&duration=3600&pause=1400&color=FFFFFF&center=true&vCenter=true&width=800&height=40&lines=I+design+with+purpose+and+build+with+precision.;Every+pixel+and+every+line+of+code+is+intentional.;Crafting+thoughtful+interfaces+and+high-performance+systems." alt="Abin Varghese" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=17&duration=3600&pause=1400&color=7DA3F6&center=true&vCenter=true&width=800&height=40&lines=I+design+with+purpose+and+build+with+precision.;Every+pixel+and+every+line+of+code+is+intentional.;Full-Stack+Developer+%C2%B7+UI%2FUX+Designer+%C2%B7+Creative+Technologist." alt="Typewriter Subtitle" />
 </a>
 
 <br/><br/>
 
 <p>
-  <a href="https://www.abinvarghese.app/"><img src="https://img.shields.io/badge/Portfolio-abinvarghese.app-161B26?style=flat-square&logo=safari&logoColor=7DA3F6" alt="Portfolio" /></a> &nbsp;
-  <a href="https://www.linkedin.com/in/toabinvarghese/"><img src="https://img.shields.io/badge/LinkedIn-toabinvarghese-161B26?style=flat-square&logo=linkedin&logoColor=7DA3F6" alt="LinkedIn" /></a> &nbsp;
-  <a href="https://www.behance.net/toabinvarghese"><img src="https://img.shields.io/badge/Behance-toabinvarghese-161B26?style=flat-square&logo=behance&logoColor=7DA3F6" alt="Behance" /></a> &nbsp;
-  <a href="mailto:toabinvarghese@gmail.com"><img src="https://img.shields.io/badge/Email-toabinvarghese@gmail.com-161B26?style=flat-square&logo=gmail&logoColor=7DA3F6" alt="Email" /></a>
+  <a href="https://www.abinvarghese.app/"><img src="https://img.shields.io/badge/Portfolio-abinvarghese.app-0B0F17?style=flat-square&logo=safari&logoColor=7DA3F6" alt="Portfolio" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/toabinvarghese/"><img src="https://img.shields.io/badge/LinkedIn-toabinvarghese-0B0F17?style=flat-square&logo=linkedin&logoColor=7DA3F6" alt="LinkedIn" /></a> &nbsp;
+  <a href="https://www.behance.net/toabinvarghese"><img src="https://img.shields.io/badge/Behance-toabinvarghese-0B0F17?style=flat-square&logo=behance&logoColor=7DA3F6" alt="Behance" /></a> &nbsp;
+  <a href="https://www.instagram.com/abeeeein/"><img src="https://img.shields.io/badge/Instagram-@abeeeein-0B0F17?style=flat-square&logo=instagram&logoColor=7DA3F6" alt="Instagram" /></a> &nbsp;
+  <a href="mailto:toabinvarghese@gmail.com"><img src="https://img.shields.io/badge/Email-toabinvarghese@gmail.com-0B0F17?style=flat-square&logo=gmail&logoColor=7DA3F6" alt="Email" /></a>
 </p>
 
 </div>
@@ -30,7 +55,7 @@
 
 I started out being drawn to visuals, layout systems, and design tools. Over time, that pulled me deeper into frontend engineering and product building, and now I enjoy working on projects where I can shape both the interface and the implementation.
 
-Currently studying Computer Science and Engineering with a Minor in VLSI at Amal Jyothi College of Engineering, building real-world products that bridge thoughtful human-centered design with resilient engineering.
+Currently studying Computer Science and Engineering with a Minor in VLSI at Amal Jyothi College of Engineering (2023–Present). I approach every project as a real-world product rather than a simple exercise, focusing on solving complex problems and transforming rough concepts into polished, intuitive systems.
 
 ---
 
@@ -174,7 +199,7 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 
 <br/>
 
-<!-- Monthly Activity Wave styled with abinvarghese.app blue tokens -->
+<!-- Monthly Activity Wave styled with abinvarghese.app black & blue tokens -->
 <a href="https://github.com/AbinVarghexe">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinVarghexe&theme=github-compact&bg_color=0B0F17&color=F9FAFB&line=7DA3F6&point=3B5BDB&area=true&area_color=0020D7&hide_border=true&radius=12&custom_title=Commit%20Activity" width="100%" alt="Commit Activity Graph" />
 </a>
@@ -225,11 +250,11 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 ## Connect
 
 <p align="center">
-  <a href="https://www.abinvarghese.app/"><img src="https://img.shields.io/badge/Website-abinvarghese.app-161B26?style=flat-square&logo=safari&logoColor=7DA3F6" /></a> &nbsp;
-  <a href="https://www.linkedin.com/in/toabinvarghese/"><img src="https://img.shields.io/badge/LinkedIn-toabinvarghese-161B26?style=flat-square&logo=linkedin&logoColor=7DA3F6" /></a> &nbsp;
-  <a href="https://www.behance.net/toabinvarghese"><img src="https://img.shields.io/badge/Behance-toabinvarghese-161B26?style=flat-square&logo=behance&logoColor=7DA3F6" /></a> &nbsp;
-  <a href="https://www.instagram.com/abeeeein/"><img src="https://img.shields.io/badge/Instagram-@abeeeein-161B26?style=flat-square&logo=instagram&logoColor=7DA3F6" /></a> &nbsp;
-  <a href="mailto:toabinvarghese@gmail.com"><img src="https://img.shields.io/badge/Email-toabinvarghese@gmail.com-161B26?style=flat-square&logo=gmail&logoColor=7DA3F6" /></a>
+  <a href="https://www.abinvarghese.app/"><img src="https://img.shields.io/badge/Website-abinvarghese.app-0B0F17?style=flat-square&logo=safari&logoColor=7DA3F6" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/toabinvarghese/"><img src="https://img.shields.io/badge/LinkedIn-toabinvarghese-0B0F17?style=flat-square&logo=linkedin&logoColor=7DA3F6" /></a> &nbsp;
+  <a href="https://www.behance.net/toabinvarghese"><img src="https://img.shields.io/badge/Behance-toabinvarghese-0B0F17?style=flat-square&logo=behance&logoColor=7DA3F6" /></a> &nbsp;
+  <a href="https://www.instagram.com/abeeeein/"><img src="https://img.shields.io/badge/Instagram-@abeeeein-0B0F17?style=flat-square&logo=instagram&logoColor=7DA3F6" /></a> &nbsp;
+  <a href="mailto:toabinvarghese@gmail.com"><img src="https://img.shields.io/badge/Email-toabinvarghese@gmail.com-0B0F17?style=flat-square&logo=gmail&logoColor=7DA3F6" /></a>
 </p>
 
 <sub>Crafted with intention &bull; © 2026 Abin Varghese</sub>
