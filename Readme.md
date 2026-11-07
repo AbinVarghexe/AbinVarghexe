@@ -7,9 +7,13 @@
 
 <br/><br/>
 
-<!-- GitAscii Animated Terminal Portrait & Neofetch System Deck (Blue & White Theme) -->
+<!-- GitAscii Adaptive Light/Dark Profile (Unstretched 1:1 Aspect Ratio) -->
 <a href="https://www.abinvarghese.app/">
-  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/gitascii_profile.svg?v=2" width="100%" alt="GitAscii Profile &amp; Terminal Deck" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/light.svg?v=3">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=3" width="100%">
+</picture>
 </a>
 
 <!-- Dynamic Typewriter Animation in Electric Blue -->
