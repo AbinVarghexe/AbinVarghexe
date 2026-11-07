@@ -171,11 +171,11 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 <br/><br/>
 
 <!-- Connected Spotify Stream -->
-<a href="https://open.spotify.com">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=novatorem&count=1" width="380" alt="Spotify Player" />
+<a href="https://spotify-github-profile.kittinanx.com/api/login">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=080D1A&amp;bar_color=3B82F6&amp;bar_color_cover=false" width="400" alt="Spotify Player" />
 </a>
 <br/>
-<sub><b>Audio Stream</b> &bull; Powered by Spotify</sub>
+<sub><b>Audio Stream</b> &bull; Live Spotify Telemetry &bull; Click card to connect / re-authenticate</sub>
 
 </div>
 
