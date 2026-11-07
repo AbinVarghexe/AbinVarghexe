@@ -1,4 +1,4 @@
-<svg width="800" height="368" viewBox="0 0 800 368" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+<svg width="800" height="368" viewBox="0 0 800 368" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet">
   <defs>
     <!-- Ascii Ink Gradient -->
     <linearGradient id="asciiInk_dark" x1="0" y1="0" x2="0" y2="1">
@@ -42,10 +42,10 @@
     }
     .badge-lbl {
       font-family: 'Inter Tight', 'Inter', -apple-system, sans-serif;
-      font-size: 12px;
+      font-size: 11.5px;
       font-weight: 600;
       fill: #FFFFFF;
-      letter-spacing: 0.3px;
+      letter-spacing: 0.2px;
       transition: fill 0.3s ease, letter-spacing 0.3s ease;
     }
     
@@ -65,6 +65,7 @@
     .social-badge {
       transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1), filter 0.25s ease;
       cursor: pointer;
+      text-decoration: none;
     }
     .social-badge:hover {
       transform: translateY(-3px);
@@ -75,7 +76,7 @@
     }
     .social-badge:hover .badge-lbl {
       fill: #60A5FA;
-      letter-spacing: 0.8px;
+      letter-spacing: 0.6px;
     }
     
     @keyframes pulseGlow {
@@ -279,65 +280,85 @@
     <path d="M 774 294 L 782 294 L 782 286" stroke="#60A5FA" stroke-width="1.8" fill="none"/>
   </g>
 
-  <!-- ==================== WIDGET 1: CODEWEB-SOCIAL-BADGES (INTERACTIVE & ANIMATED) ==================== -->
+  <!-- ==================== WIDGET 1: 5 SOCIAL MEDIA BADGES (INTERACTIVE & ANIMATED) ==================== -->
+  <!-- GitHub removed; Added LinkedIn, Instagram, Gmail, Portfolio, X (Twitter) -->
   <g id="widget-codeweb-social-badge">
-    <!-- GitHub Badge -->
-    <g id="badge-github" class="social-badge">
-      <rect x="16.0" y="312" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_dark)" stroke-width="1.8"/>
-      <rect class="badge-inner" x="17.0" y="313" width="178" height="38" rx="19" fill="none" transition="fill 0.25s ease"/>
-      <svg x="34.0" y="322" width="20" height="20" viewBox="0 0 18 18">
-        <path fill="#FFFFFF" fill-rule="evenodd" clip-rule="evenodd" d="M9 1.5C4.86 1.5 1.5 4.86 1.5 9c0 3.32 2.15 6.13 5.13 7.12.38.07.51-.16.51-.36v-1.38c-2.09.45-2.53-.99-2.53-.99-.34-.86-.83-1.09-.83-1.09-.68-.46.05-.45.05-.45.75.05 1.15.77 1.15.77.67 1.14 1.75.81 2.18.62.07-.48.26-.81.47-1-1.67-.19-3.42-.83-3.42-3.71 0-.82.29-1.49.77-2.01-.08-.19-.33-.95.07-1.98 0 0 .63-.2 2.06.77a7.2 7.2 0 0 1 3.75 0c1.43-.97 2.06-.77 2.06-.77.4 1.03.15 1.79.08 1.98.48.52.77 1.19.77 2.01 0 2.89-1.76 3.52-3.44 3.7.27.23.51.69.51 1.4v2.07c0 .2.13.44.52.36A7.51 7.51 0 0 0 16.5 9c0-4.14-3.36-7.5-7.5-7.5Z"/>
-      </svg>
-      <text x="64.0" y="337" class="badge-lbl">GitHub</text>
-      <!-- Ping Indicator -->
-      <circle cx="178.0" cy="332" r="3.5" fill="#3B82F6">
-        <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" repeatCount="indefinite" />
-      </circle>
-    </g>
+    <!-- 1. LinkedIn Badge -->
+    <a href="https://www.linkedin.com/in/toabinvarghese/" target="_blank" class="social-badge">
+      <g id="badge-linkedin">
+        <rect x="16.0" y="312" width="142" height="40" rx="20" fill="none" stroke="url(#auraGrad_dark)" stroke-width="1.8"/>
+        <rect class="badge-inner" x="17.0" y="313" width="140" height="38" rx="19" fill="none"/>
+        <svg x="28.0" y="323" width="18" height="18" viewBox="0 0 18 18">
+          <path fill="#0A66C2" d="M15.3 1.5H2.7A1.2 1.2 0 0 0 1.5 2.7v12.6c0 .7.5 1.2 1.2 1.2h12.6c.7 0 1.2-.5 1.2-1.2V2.7c0-.7-.5-1.2-1.2-1.2zM6 14.3H3.6V7.1H6v7.2zM4.8 6.1a1.4 1.4 0 1 1 0-2.8 1.4 1.4 0 0 1 0 2.8zm9.5 8.2H12V10.7c0-.9 0-2-1.2-2s-1.4 1-1.4 2v3.6H7.1V7.1h2.2v1h.1c.3-.6 1.1-1.2 2.2-1.2 2.3 0 2.7 1.5 2.7 3.5v3.9z"/>
+        </svg>
+        <text x="52.0" y="337" class="badge-lbl">LinkedIn</text>
+        <circle cx="144.0" cy="332" r="3.5" fill="#0A66C2">
+          <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" repeatCount="indefinite" />
+        </circle>
+      </g>
+    </a>
 
-    <!-- Instagram Badge -->
-    <g id="badge-instagram" class="social-badge">
-      <rect x="212.0" y="312" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_dark)" stroke-width="1.8"/>
-      <rect class="badge-inner" x="213.0" y="313" width="178" height="38" rx="19" fill="none" transition="fill 0.25s ease"/>
-      <svg x="230.0" y="322" width="20" height="20" viewBox="0 0 18 18">
-        <path fill="#EC4899" d="M9 4.875A4.125 4.125 0 1 0 9 13.125 4.125 4.125 0 0 0 9 4.875zm0 6.75a2.625 2.625 0 1 1 0-5.25 2.625 2.625 0 0 1 0 5.25z"/>
-        <path fill="#EC4899" fill-rule="evenodd" clip-rule="evenodd" d="M12.938 1.5H5.062A3.563 3.563 0 0 0 1.5 5.063v7.875A3.562 3.562 0 0 0 5.063 16.5h7.875A3.562 3.562 0 0 0 16.5 12.938V5.063A3.563 3.563 0 0 0 12.938 1.5zm2.062 11.438a2.062 2.062 0 0 1-2.062 2.062H5.063a2.062 2.062 0 0 1-2.063-2.062V5.063a2.062 2.062 0 0 1 2.063-2.063h7.875a2.062 2.062 0 0 1 2.062 2.063v7.875z"/>
-        <circle cx="13.2" cy="4.8" r="0.9" fill="#EC4899"/>
-      </svg>
-      <text x="260.0" y="337" class="badge-lbl">Instagram</text>
-      <!-- Ping Indicator -->
-      <circle cx="374.0" cy="332" r="3.5" fill="#3B82F6">
-        <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" begin="0.5s" repeatCount="indefinite" />
-      </circle>
-    </g>
+    <!-- 2. Instagram Badge -->
+    <a href="https://www.instagram.com/abeeeein/" target="_blank" class="social-badge">
+      <g id="badge-instagram">
+        <rect x="172.5" y="312" width="142" height="40" rx="20" fill="none" stroke="url(#auraGrad_dark)" stroke-width="1.8"/>
+        <rect class="badge-inner" x="173.5" y="313" width="140" height="38" rx="19" fill="none"/>
+        <svg x="184.5" y="323" width="18" height="18" viewBox="0 0 18 18">
+          <path fill="#EC4899" d="M9 4.875A4.125 4.125 0 1 0 9 13.125 4.125 4.125 0 0 0 9 4.875zm0 6.75a2.625 2.625 0 1 1 0-5.25 2.625 2.625 0 0 1 0 5.25z"/>
+          <path fill="#EC4899" fill-rule="evenodd" clip-rule="evenodd" d="M12.938 1.5H5.062A3.563 3.563 0 0 0 1.5 5.063v7.875A3.562 3.562 0 0 0 5.063 16.5h7.875A3.562 3.562 0 0 0 16.5 12.938V5.063A3.563 3.563 0 0 0 12.938 1.5zm2.062 11.438a2.062 2.062 0 0 1-2.062 2.062H5.063a2.062 2.062 0 0 1-2.063-2.062V5.063a2.062 2.062 0 0 1 2.063-2.063h7.875a2.062 2.062 0 0 1 2.062 2.063v7.875z"/>
+          <circle cx="13.2" cy="4.8" r="0.9" fill="#EC4899"/>
+        </svg>
+        <text x="208.5" y="337" class="badge-lbl">Instagram</text>
+        <circle cx="300.5" cy="332" r="3.5" fill="#EC4899">
+          <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" begin="0.4s" repeatCount="indefinite" />
+        </circle>
+      </g>
+    </a>
 
-    <!-- Gmail Badge -->
-    <g id="badge-gmail" class="social-badge">
-      <rect x="408.0" y="312" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_dark)" stroke-width="1.8"/>
-      <rect class="badge-inner" x="409.0" y="313" width="178" height="38" rx="19" fill="none" transition="fill 0.25s ease"/>
-      <svg x="426.0" y="322" width="20" height="20" viewBox="0 0 18 18">
-        <path fill="#60A5FA" d="M1.5 4.5v9a1.5 1.5 0 0 0 1.5 1.5h1.5V8.25L9 11.25l4.5-3v6.75H15a1.5 1.5 0 0 0 1.5-1.5v-9L9 8.25 1.5 4.5z"/>
-        <path fill="#EF4444" d="M15 3H3a1.5 1.5 0 0 0-1.5 1.5v.75L9 9l7.5-3.75V4.5A1.5 1.5 0 0 0 15 3z"/>
-      </svg>
-      <text x="456.0" y="337" class="badge-lbl">Gmail</text>
-      <!-- Ping Indicator -->
-      <circle cx="570.0" cy="332" r="3.5" fill="#3B82F6">
-        <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" begin="1.0s" repeatCount="indefinite" />
-      </circle>
-    </g>
+    <!-- 3. Gmail Badge -->
+    <a href="mailto:toabinvarghese@gmail.com" target="_blank" class="social-badge">
+      <g id="badge-gmail">
+        <rect x="329.0" y="312" width="142" height="40" rx="20" fill="none" stroke="url(#auraGrad_dark)" stroke-width="1.8"/>
+        <rect class="badge-inner" x="330.0" y="313" width="140" height="38" rx="19" fill="none"/>
+        <svg x="341.0" y="323" width="18" height="18" viewBox="0 0 18 18">
+          <path fill="#60A5FA" d="M1.5 4.5v9a1.5 1.5 0 0 0 1.5 1.5h1.5V8.25L9 11.25l4.5-3v6.75H15a1.5 1.5 0 0 0 1.5-1.5v-9L9 8.25 1.5 4.5z"/>
+          <path fill="#EF4444" d="M15 3H3a1.5 1.5 0 0 0-1.5 1.5v.75L9 9l7.5-3.75V4.5A1.5 1.5 0 0 0 15 3z"/>
+        </svg>
+        <text x="365.0" y="337" class="badge-lbl">Gmail</text>
+        <circle cx="457.0" cy="332" r="3.5" fill="#EF4444">
+          <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" begin="0.8s" repeatCount="indefinite" />
+        </circle>
+      </g>
+    </a>
 
-    <!-- Portfolio Badge -->
-    <g id="badge-portfolio" class="social-badge">
-      <rect x="604.0" y="312" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_dark)" stroke-width="1.8"/>
-      <rect class="badge-inner" x="605.0" y="313" width="178" height="38" rx="19" fill="none" transition="fill 0.25s ease"/>
-      <svg x="622.0" y="322" width="20" height="20" viewBox="0 0 18 18">
-        <path fill="#3B82F6" d="M9 1.5a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15zm-5.9 7h3.1c.1-1.3.4-2.5.9-3.4A6.02 6.02 0 0 0 3.1 8.5zm3.1 1.5H3.1a6.02 6.02 0 0 0 4 3.4c-.5-.9-.8-2.1-.9-3.4zm1.5 0c.1 1.5.5 2.8 1.1 3.5.6-.7 1-2 1.1-3.5H7.7zm0-1.5h2.6c-.1-1.5-.5-2.8-1.1-3.5-.6.7-1 2-1.1 3.5zm3.8-3.4c.5.9.8 2.1.9 3.4h3.1a6.02 6.02 0 0 0-4-3.4zm.9 4.9c-.1 1.3-.4 2.5-.9 3.4a6.02 6.02 0 0 0 4-3.4h-3.1z"/>
-      </svg>
-      <text x="652.0" y="337" class="badge-lbl">Portfolio</text>
-      <!-- Ping Indicator -->
-      <circle cx="766.0" cy="332" r="3.5" fill="#3B82F6">
-        <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" begin="1.5s" repeatCount="indefinite" />
-      </circle>
-    </g>
+    <!-- 4. Portfolio Badge -->
+    <a href="https://www.abinvarghese.app/" target="_blank" class="social-badge">
+      <g id="badge-portfolio">
+        <rect x="485.5" y="312" width="142" height="40" rx="20" fill="none" stroke="url(#auraGrad_dark)" stroke-width="1.8"/>
+        <rect class="badge-inner" x="486.5" y="313" width="140" height="38" rx="19" fill="none"/>
+        <svg x="497.5" y="323" width="18" height="18" viewBox="0 0 18 18">
+          <path fill="#3B82F6" d="M9 1.5a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15zm-5.9 7h3.1c.1-1.3.4-2.5.9-3.4A6.02 6.02 0 0 0 3.1 8.5zm3.1 1.5H3.1a6.02 6.02 0 0 0 4 3.4c-.5-.9-.8-2.1-.9-3.4zm1.5 0c.1 1.5.5 2.8 1.1 3.5.6-.7 1-2 1.1-3.5H7.7zm0-1.5h2.6c-.1-1.5-.5-2.8-1.1-3.5-.6.7-1 2-1.1 3.5zm3.8-3.4c.5.9.8 2.1.9 3.4h3.1a6.02 6.02 0 0 0-4-3.4zm.9 4.9c-.1 1.3-.4 2.5-.9 3.4a6.02 6.02 0 0 0 4-3.4h-3.1z"/>
+        </svg>
+        <text x="521.5" y="337" class="badge-lbl">Portfolio</text>
+        <circle cx="613.5" cy="332" r="3.5" fill="#3B82F6">
+          <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" begin="1.2s" repeatCount="indefinite" />
+        </circle>
+      </g>
+    </a>
+
+    <!-- 5. X (Twitter) Badge -->
+    <a href="https://x.com/ABIN_VARGHESE_2" target="_blank" class="social-badge">
+      <g id="badge-x">
+        <rect x="642.0" y="312" width="142" height="40" rx="20" fill="none" stroke="url(#auraGrad_dark)" stroke-width="1.8"/>
+        <rect class="badge-inner" x="643.0" y="313" width="140" height="38" rx="19" fill="none"/>
+        <svg x="653.0" y="323" width="18" height="18" viewBox="0 0 18 18">
+          <path fill="#FFFFFF" d="M13.68 2H16.2L10.7 8.35L17.15 17H12.06L8.08 11.72L3.52 17H1L6.87 10.21L0.72 2H5.94L9.53 6.81L13.68 2ZM12.8 15.46H14.2L5.13 3.44H3.63L12.8 15.46Z"/>
+        </svg>
+        <text x="677.0" y="337" class="badge-lbl">X / Twitter</text>
+        <circle cx="770.0" cy="332" r="3.5" fill="#3B82F6">
+          <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" begin="1.6s" repeatCount="indefinite" />
+        </circle>
+      </g>
+    </a>
   </g>
 </svg>
