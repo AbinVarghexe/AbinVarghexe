@@ -1,17 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
   <defs>
-    <linearGradient id="apple_bg_html5" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#161B26" />
-      <stop offset="100%" stop-color="#0B0F17" />
+    <!-- Refined Luminous Blue Texture Gradient -->
+    <linearGradient id="blue_tex_html5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A" />
+      <stop offset="45%" stop-color="#172554" />
+      <stop offset="100%" stop-color="#0B132B" />
     </linearGradient>
-    <linearGradient id="apple_border_html5" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.16)" />
-      <stop offset="100%" stop-color="rgba(125, 163, 246, 0.28)" />
+    <radialGradient id="specular_html5" cx="35%" cy="25%" r="65%">
+      <stop offset="0%" stop-color="rgba(147, 197, 253, 0.45)" />
+      <stop offset="60%" stop-color="rgba(59, 130, 246, 0.08)" />
+      <stop offset="100%" stop-color="transparent" />
+    </radialGradient>
+    <linearGradient id="border_blue_html5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(191, 219, 254, 0.55)" />
+      <stop offset="100%" stop-color="rgba(59, 130, 246, 0.3)" />
     </linearGradient>
   </defs>
-  <!-- Apple Squircle Card -->
-  <rect x="2" y="2" width="60" height="60" rx="16" ry="16" fill="url(#apple_bg_html5)" stroke="url(#apple_border_html5)" stroke-width="1.2" />
-  <!-- Centered Icon Vector -->
+
+  <!-- Blue Textured Base -->
+  <rect x="2" y="2" width="60" height="60" rx="16" ry="16" fill="url(#blue_tex_html5)" stroke="url(#border_blue_html5)" stroke-width="1.2" />
+  
+  <!-- Specular Light Overlay for Subtle Glass Texture -->
+  <rect x="2" y="2" width="60" height="60" rx="16" ry="16" fill="url(#specular_html5)" />
+
+  <!-- Clean Vector Icon Glyph in White -->
   <g transform="translate(16.00, 16.00) scale(1.3333)">
     <title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/>
   </g>

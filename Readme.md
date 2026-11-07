@@ -1,30 +1,35 @@
 <div align="center">
 
-<!-- ASCII Masthead in Pure Black, Blue, White, Grey Palette -->
-<a href="https://www.abinvarghese.app/">
-  <img src="assets/ascii_header.svg" width="100%" alt="Abin Varghese" />
-</a>
+```text
+ █████╗ ██████╗ ██╗███╗   ██╗    ██╗   ██╗ █████╗ ██████╗  ██████╗ ██╗  ██╗███████╗███████╗███████╗
+██╔══██╗██╔══██╗██║████╗  ██║    ██║   ██║██╔══██╗██╔══██╗██╔════╝ ██║  ██║██╔════╝██╔════╝██╔════╝
+███████║██████╔╝██║██╔██╗ ██║    ██║   ██║███████║██████╔╝██║  ███╗███████║█████╗  ███████╗█████╗  
+██╔══██║██╔══██╗██║██║╚██╗██║    ╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██╔══██║██╔══╝  ╚════██║██╔══╝  
+██║  ██║██████╔╝██║██║ ╚████║     ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║  ██║███████╗███████║███████╗
+╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝      ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
+```
 
-<br/><br/>
+<br/>
 
-<!-- Animated ASCII Portrait Stream & Core Identity -->
+<!-- Real Profile Image with Clean Apple Squircle Border paired with ASCII Telemetry -->
 <table border="0" style="border: none;">
   <tr>
     <td align="center" style="border: none; padding-right: 28px;">
       <a href="https://www.abinvarghese.app/">
-        <img src="assets/ascii_avatar.gif" width="220" alt="Abin Varghese · Animated ASCII Stream" style="border-radius: 18px;" />
+        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/profile.png" width="180" height="180" style="border-radius: 28px; border: 2px solid #3B82F6;" alt="Abin Varghese" />
       </a>
-      <br/>
-      <sub><em>Biometric ASCII Stream &bull; 24-Frame Loop</em></sub>
     </td>
     <td align="left" style="border: none;">
 <pre>
-<b>IDENTITY</b>   &bull; Abin Varghese
-<b>ROLE</b>       &bull; Full-Stack Engineer &bull; UI/UX Designer
-<b>LOCATION</b>   &bull; Idukki, Kerala, India [09°51'N 76°58'E]
-<b>FOCUS</b>      &bull; High-Performance Systems &bull; Thoughtful Interfaces
-<b>PALETTE</b>    &bull; #070A10 &bull; #3B82F6 &bull; #FFFFFF &bull; #A1A1AA
-<b>ENGINE</b>     &bull; 3D Progress Tracker &bull; Living Git-Koi
+ █▀█ █▄▄ █ █▄ █   █ █ █▀█ █▀█ █▀▀ █ █ █▀▀ █▀▀ █▀▀
+ █▀█ █▄█ █ █ ▀█   ▀▄▀ █▀█ █▀▄ █▄█ █▀█ ██▄ ▄▄█ ██▄
+ ────────────────────────────────────────────────
+ <b>IDENTITY</b>   &bull; Abin Varghese
+ <b>ROLE</b>       &bull; Full-Stack Engineer &bull; UI/UX Designer
+ <b>LOCATION</b>   &bull; Idukki, Kerala, India [09°51'N 76°58'E]
+ <b>FOCUS</b>      &bull; High-Performance Systems &bull; Thoughtful Interfaces
+ <b>PALETTE</b>    &bull; #070A10 &bull; #3B82F6 &bull; #FFFFFF &bull; #A1A1AA
+ <b>PHILOSOPHY</b> &bull; "Purpose in Design &bull; Precision in Code"
 </pre>
     </td>
   </tr>
@@ -67,31 +72,31 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 <table>
   <tr>
     <td align="center" width="14%">
-      <img src="assets/icons/python.svg" width="48" height="48" alt="Python" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/python.svg" width="50" height="50" alt="Python" /><br/>
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="14%">
-      <img src="assets/icons/go.svg" width="48" height="48" alt="Go" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/go.svg" width="50" height="50" alt="Go" /><br/>
       <sub><b>Go</b></sub>
     </td>
     <td align="center" width="14%">
-      <img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/javascript.svg" width="50" height="50" alt="JavaScript" /><br/>
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="14%">
-      <img src="assets/icons/html5.svg" width="48" height="48" alt="HTML5" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/html5.svg" width="50" height="50" alt="HTML5" /><br/>
       <sub><b>HTML5</b></sub>
     </td>
     <td align="center" width="14%">
-      <img src="assets/icons/csharp-dotnet.svg" width="48" height="48" alt="C# • .NET" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/csharp-dotnet.svg" width="50" height="50" alt="C# • .NET" /><br/>
       <sub><b>C# • .NET</b></sub>
     </td>
     <td align="center" width="14%">
-      <img src="assets/icons/sqlite.svg" width="48" height="48" alt="SQLite" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/sqlite.svg" width="50" height="50" alt="SQLite" /><br/>
       <sub><b>SQLite</b></sub>
     </td>
     <td align="center" width="14%">
-      <img src="assets/icons/opencv.svg" width="48" height="48" alt="OpenCV" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/opencv.svg" width="50" height="50" alt="OpenCV" /><br/>
       <sub><b>OpenCV</b></sub>
     </td>
   </tr>
@@ -104,35 +109,35 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 <table>
   <tr>
     <td align="center" width="12.5%">
-      <img src="assets/icons/linux.svg" width="48" height="48" alt="Linux" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/linux.svg" width="50" height="50" alt="Linux" /><br/>
       <sub><b>Linux</b></sub>
     </td>
     <td align="center" width="12.5%">
-      <img src="assets/icons/docker.svg" width="48" height="48" alt="Docker" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/docker.svg" width="50" height="50" alt="Docker" /><br/>
       <sub><b>Docker</b></sub>
     </td>
     <td align="center" width="12.5%">
-      <img src="assets/icons/git.svg" width="48" height="48" alt="Git" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/git.svg" width="50" height="50" alt="Git" /><br/>
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="12.5%">
-      <img src="assets/icons/githubactions.svg" width="48" height="48" alt="GitHub Actions" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/githubactions.svg" width="50" height="50" alt="GitHub Actions" /><br/>
       <sub><b>GitHub Actions</b></sub>
     </td>
     <td align="center" width="12.5%">
-      <img src="assets/icons/cloudflare.svg" width="48" height="48" alt="Cloudflare" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/cloudflare.svg" width="50" height="50" alt="Cloudflare" /><br/>
       <sub><b>Cloudflare</b></sub>
     </td>
     <td align="center" width="12.5%">
-      <img src="assets/icons/googlecloud.svg" width="48" height="48" alt="Google Cloud" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/googlecloud.svg" width="50" height="50" alt="Google Cloud" /><br/>
       <sub><b>Google Cloud</b></sub>
     </td>
     <td align="center" width="12.5%">
-      <img src="assets/icons/wireguard.svg" width="48" height="48" alt="WireGuard" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/wireguard.svg" width="50" height="50" alt="WireGuard" /><br/>
       <sub><b>WireGuard</b></sub>
     </td>
     <td align="center" width="12.5%">
-      <img src="assets/icons/tor.svg" width="48" height="48" alt="Tor" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/tor.svg" width="50" height="50" alt="Tor" /><br/>
       <sub><b>Tor</b></sub>
     </td>
   </tr>
@@ -145,27 +150,27 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 <table>
   <tr>
     <td align="center" width="16.6%">
-      <img src="assets/icons/claude.svg" width="48" height="48" alt="Claude" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/claude.svg" width="50" height="50" alt="Claude" /><br/>
       <sub><b>Claude</b></sub>
     </td>
     <td align="center" width="16.6%">
-      <img src="assets/icons/chatgpt.svg" width="48" height="48" alt="ChatGPT" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/chatgpt.svg" width="50" height="50" alt="ChatGPT" /><br/>
       <sub><b>ChatGPT</b></sub>
     </td>
     <td align="center" width="16.6%">
-      <img src="assets/icons/gemini.svg" width="48" height="48" alt="Gemini" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/gemini.svg" width="50" height="50" alt="Gemini" /><br/>
       <sub><b>Gemini</b></sub>
     </td>
     <td align="center" width="16.6%">
-      <img src="assets/icons/deepseek.svg" width="48" height="48" alt="DeepSeek" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/deepseek.svg" width="50" height="50" alt="DeepSeek" /><br/>
       <sub><b>DeepSeek</b></sub>
     </td>
     <td align="center" width="16.6%">
-      <img src="assets/icons/qwen.svg" width="48" height="48" alt="Qwen" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/qwen.svg" width="50" height="50" alt="Qwen" /><br/>
       <sub><b>Qwen</b></sub>
     </td>
     <td align="center" width="16.6%">
-      <img src="assets/icons/kimi.svg" width="48" height="48" alt="Kimi" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/kimi.svg" width="50" height="50" alt="Kimi" /><br/>
       <sub><b>Kimi</b></sub>
     </td>
   </tr>
@@ -183,7 +188,7 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
   <tr>
     <td align="center" style="border: none; padding: 16px;">
       <a href="https://github.com/yalongwastaken/git-koi">
-        <img src="koi/koi.gif" width="220" alt="Living Git-Koi" />
+        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/koi/koi.gif" width="220" alt="Living Git-Koi" />
       </a>
       <br/>
       <sub><b>Living Koi</b> &bull; Synchronized daily to commit activity via <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
@@ -205,7 +210,7 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
   <tr>
     <td align="center" style="border: none;">
       <a href="https://github.com/AbinVarghexe">
-        <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Progress Tracker" style="border-radius: 16px; border: 1px solid #1F2937;" />
+        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Progress Tracker" style="border-radius: 16px; border: 1px solid #1F2937;" />
       </a>
       <br/>
       <sub><b>3D Progress Tracker</b> &bull; Isometric commit landscape in night view telemetry</sub>
