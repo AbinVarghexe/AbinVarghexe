@@ -152,23 +152,23 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 
 ## Activity &amp; Atmosphere
 
-<!-- Living Git-Koi (Single Centered Column) -->
-<a href="https://github.com/yalongwastaken/git-koi">
-  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/koi/koi.gif?v=5" width="230" alt="Living Git-Koi" />
-</a>
+<!-- Living Git-Koi & 3D Contribution Bar Chart (One Row, Two Columns, Descriptions Removed) -->
+<table border="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" width="30%" style="border: none; padding: 10px; vertical-align: middle;">
+      <a href="https://github.com/yalongwastaken/git-koi">
+        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/koi/koi.gif?v=7" width="220" alt="Living Git-Koi" />
+      </a>
+    </td>
+    <td align="center" width="70%" style="border: none; padding: 10px; vertical-align: middle;">
+      <a href="https://github.com/AbinVarghexe">
+        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profile-3d-contrib/profile-night-view.svg?v=7" width="100%" alt="3D Isometric Contribution Bar Chart" style="border-radius: 12px; border: 1px solid #1E3A8A;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br/>
-<sub><b>Living Git-Koi</b> &bull; Synchronized daily to commit activity via <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
-
-<br/><br/>
-
-<!-- 3D Isometric Contribution Bar Chart (Radar Web & Pie Charts Stripped) -->
-<a href="https://github.com/AbinVarghexe">
-  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profile-3d-contrib/profile-night-view.svg?v=5" width="100%" alt="3D Isometric Contribution Bar Chart" style="border-radius: 14px; border: 1px solid #1E3A8A;" />
-</a>
-<br/>
-<sub><b>3D Isometric Bar Chart</b> &bull; Night-view telemetry of 983+ commits across 52 weeks</sub>
-
-<br/><br/>
 
 <!-- Connected Spotify Stream -->
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&amp;redirect=true">
