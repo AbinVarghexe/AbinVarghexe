@@ -2,9 +2,9 @@
 
 <!-- GitAscii Adaptive Profile (ASCII Portrait, Editorial Info Deck & Social Badges) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=11">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/light.svg?v=11">
-  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=11" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=12">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/light.svg?v=12">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=12" width="100%">
 </picture>
 
 <br/><br/>
@@ -52,27 +52,27 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 <table border="0" style="border: none;">
   <tr>
     <td align="center" width="16.6%" style="border: none; padding: 12px 18px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/python.svg?v=11" width="38" height="38" alt="Python" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/python.svg?v=12" width="38" height="38" alt="Python" /><br/>
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="16.6%" style="border: none; padding: 12px 18px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/javascript.svg?v=11" width="38" height="38" alt="JavaScript" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/javascript.svg?v=12" width="38" height="38" alt="JavaScript" /><br/>
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="16.6%" style="border: none; padding: 12px 18px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/react.svg?v=11" width="38" height="38" alt="React" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/react.svg?v=12" width="38" height="38" alt="React" /><br/>
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="16.6%" style="border: none; padding: 12px 18px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/html5.svg?v=11" width="38" height="38" alt="HTML" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/html5.svg?v=12" width="38" height="38" alt="HTML" /><br/>
       <sub><b>HTML</b></sub>
     </td>
     <td align="center" width="16.6%" style="border: none; padding: 12px 18px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/c.svg?v=11" width="38" height="38" alt="C" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/c.svg?v=12" width="38" height="38" alt="C" /><br/>
       <sub><b>C</b></sub>
     </td>
     <td align="center" width="16.6%" style="border: none; padding: 12px 18px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/sql.svg?v=11" width="38" height="38" alt="SQL" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/sql.svg?v=12" width="38" height="38" alt="SQL" /><br/>
       <sub><b>SQL</b></sub>
     </td>
   </tr>
@@ -83,27 +83,27 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 <table border="0" style="border: none;">
   <tr>
     <td align="center" width="16.6%" style="border: none; padding: 12px 16px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/linux.svg?v=11" width="38" height="38" alt="Linux" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/linux.svg?v=12" width="38" height="38" alt="Linux" /><br/>
       <sub><b>Linux</b></sub>
     </td>
     <td align="center" width="16.6%" style="border: none; padding: 12px 16px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/docker.svg?v=11" width="38" height="38" alt="Docker" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/docker.svg?v=12" width="38" height="38" alt="Docker" /><br/>
       <sub><b>Docker</b></sub>
     </td>
     <td align="center" width="16.6%" style="border: none; padding: 12px 16px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/git.svg?v=11" width="38" height="38" alt="Git" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/git.svg?v=12" width="38" height="38" alt="Git" /><br/>
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="16.6%" style="border: none; padding: 12px 16px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/githubactions.svg?v=11" width="38" height="38" alt="GitHub Actions" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/githubactions.svg?v=12" width="38" height="38" alt="GitHub Actions" /><br/>
       <sub><b>GitHub Actions</b></sub>
     </td>
     <td align="center" width="16.6%" style="border: none; padding: 12px 16px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/cloudflare.svg?v=11" width="38" height="38" alt="Cloudflare" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/cloudflare.svg?v=12" width="38" height="38" alt="Cloudflare" /><br/>
       <sub><b>Cloudflare</b></sub>
     </td>
     <td align="center" width="16.6%" style="border: none; padding: 12px 16px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/googlecloud.svg?v=11" width="38" height="38" alt="Google Cloud" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/googlecloud.svg?v=12" width="38" height="38" alt="Google Cloud" /><br/>
       <sub><b>Google Cloud</b></sub>
     </td>
   </tr>
@@ -114,19 +114,19 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 <table border="0" style="border: none;">
   <tr>
     <td align="center" width="25%" style="border: none; padding: 12px 24px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/claude.svg?v=11" width="38" height="38" alt="Claude" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/claude.svg?v=12" width="38" height="38" alt="Claude" /><br/>
       <sub><b>Claude</b></sub>
     </td>
     <td align="center" width="25%" style="border: none; padding: 12px 24px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/chatgpt.svg?v=11" width="38" height="38" alt="ChatGPT" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/chatgpt.svg?v=12" width="38" height="38" alt="ChatGPT" /><br/>
       <sub><b>ChatGPT</b></sub>
     </td>
     <td align="center" width="25%" style="border: none; padding: 12px 24px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/gemini.svg?v=11" width="38" height="38" alt="Gemini" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/gemini.svg?v=12" width="38" height="38" alt="Gemini" /><br/>
       <sub><b>Gemini</b></sub>
     </td>
     <td align="center" width="25%" style="border: none; padding: 12px 24px;">
-      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/kimi.svg?v=11" width="38" height="38" alt="Kimi" /><br/>
+      <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/kimi.svg?v=12" width="38" height="38" alt="Kimi" /><br/>
       <sub><b>Kimi</b></sub>
     </td>
   </tr>
@@ -145,12 +145,12 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
   <tr style="border: none;">
     <td align="center" width="40%" style="border: none; padding: 10px; vertical-align: middle;">
       <a href="https://github.com/yalongwastaken/git-koi">
-        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/koi/koi.gif?v=11" width="270" alt="Living Git-Koi" />
+        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/koi/koi.gif?v=12" width="270" alt="Living Git-Koi" />
       </a>
     </td>
     <td align="center" width="60%" style="border: none; padding: 10px; vertical-align: middle;">
       <a href="https://github.com/AbinVarghexe">
-        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profile-3d-contrib/profile-night-view.svg?v=11" width="100%" alt="3D Isometric Contribution Bar Chart" style="border-radius: 12px; border: 1px solid #1E3A8A;" />
+        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profile-3d-contrib/profile-night-view.svg?v=12" width="100%" alt="3D Isometric Contribution Bar Chart" style="border-radius: 12px; border: 1px solid #1E3A8A;" />
       </a>
     </td>
   </tr>
@@ -173,9 +173,9 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 
 <!-- GitAscii Footer -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-dark.svg?v=11">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-light.svg?v=11">
-  <img alt="GitAscii Footer" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-dark.svg?v=11" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-dark.svg?v=12">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-light.svg?v=12">
+  <img alt="GitAscii Footer" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-dark.svg?v=12" width="100%">
 </picture>
 
 </div>
