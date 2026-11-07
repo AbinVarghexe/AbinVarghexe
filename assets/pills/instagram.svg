@@ -1,0 +1,50 @@
+<svg width="130" height="48" viewBox="0 0 130 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700&amp;family=Inter:wght@500;600&amp;display=swap');
+    * { box-sizing: border-box; }
+    text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      user-select: none;
+    }
+    .pill-container {
+      transition: transform 0.2s ease;
+    }
+  </style>
+
+  <defs>
+
+    <linearGradient id="radar-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="15%" stop-color="#111827" />
+      <stop offset="45%" stop-color="#93C5FD" />
+      <stop offset="65%" stop-color="#3B82F6" />
+      <stop offset="85%" stop-color="#1E3A8A" />
+      <stop offset="100%" stop-color="#60A5FA" />
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+
+  </defs>
+  <a xlink:href="https://www.instagram.com/abeeeein/" href="https://www.instagram.com/abeeeein/" target="_blank" rel="noopener noreferrer">
+    <g class="pill-container">
+      <!-- Outer rotating gradient border -->
+      <rect x="2" y="2" width="126" height="44" rx="22" ry="22" fill="none" stroke="url(#radar-glow)" stroke-width="1.8" />
+
+      <!-- Dark container background with subtle glow -->
+      <rect x="3" y="3" width="124" height="42" rx="21" ry="21" fill="#081A36" />
+
+      <!-- Inner highlight layer -->
+      <rect x="3" y="3" width="124" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)" />
+
+      <!-- Icon -->
+      <g transform="translate(16, 15)">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
+          <path class="anim-target" fill="#60A5FA" d="M9 3.5c1.792 0 2.004.007 2.712.039.655.03 1.011.139 1.248.231.314.122.538.267.773.502.235.235.38.459.502.773.092.237.201.593.231 1.248.032.708.039.92.039 2.712s-.007 2.004-.039 2.712c-.03.655-.139 1.011-.231 1.248-.122.314-.267.538-.502.773-.235.235-.459.38-.773.502-.237.092-.593.201-1.248.231-.708.032-.92.039-2.712.039s-2.004-.007-2.712-.039c-.655-.03-1.011-.139-1.248-.231-.314-.122-.538-.267-.773-.502-.235-.235-.38-.459-.502-.773-.092-.237-.201-.593-.231-1.248C3.507 11.004 3.5 10.792 3.5 9s.007-2.004.039-2.712c.03-.655.139-1.011.231-1.248.122-.314.267-.538.502-.773.235-.235.459-.38.773-.502.237-.092.593-.201 1.248-.231.708-.032.92-.039 2.712-.039zm0-1.5c-1.823 0-2.051.008-2.766.04-.714.033-1.202.146-1.629.312a3.868 3.868 0 0 0-1.398.91 3.868 3.868 0 0 0-.91 1.398c-.166.427-.279.915-.312 1.629C2.008 6.949 2 7.177 2 9c0 1.823.008 2.051.04 2.766.033.714.146 1.202.312 1.629.166.427.387.79.91 1.398.523.523.886.744 1.398.91.427.166.915.279 1.629.312.715.032.943.04 2.766.04s2.051-.008 2.766-.04c.714-.033 1.202-.146 1.629-.312.427-.166.875-.387 1.398-.91.523-.523.744-.886.91-1.398.166-.427.279-.915.312-1.629.032-.715.04-.943.04-2.766s-.008-2.051-.04-2.766c-.033-.714-.146-1.202-.312-1.629a3.868 3.868 0 0 0-.91-1.398 3.868 3.868 0 0 0-1.398-.91c-.427-.166-.915-.279-1.629-.312C11.051 2.008 10.823 2 9 2zm0 3.414A3.586 3.586 0 1 0 12.586 9 3.586 3.586 0 0 0 9 5.414zm0 5.758A2.172 2.172 0 1 1 11.172 9 2.172 2.172 0 0 1 9 11.172zm3.727-6.07a.838.838 0 1 1-.838-.838.838.838 0 0 1 .838.838z" style="animation-delay: 55ms; transform-origin: center;" />
+        </svg>
+      </g>
+
+      <!-- Label -->
+      <text x="44" y="29" text-anchor="start" fill="#F5F5F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0.2">Instagram</text>
+    </g>
+  </a>
+</svg>

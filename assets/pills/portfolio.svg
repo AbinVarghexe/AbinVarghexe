@@ -1,0 +1,50 @@
+<svg width="178" height="48" viewBox="0 0 178 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700&amp;family=Inter:wght@500;600&amp;display=swap');
+    * { box-sizing: border-box; }
+    text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      user-select: none;
+    }
+    .pill-container {
+      transition: transform 0.2s ease;
+    }
+  </style>
+
+  <defs>
+
+    <linearGradient id="radar-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="15%" stop-color="#111827" />
+      <stop offset="45%" stop-color="#93C5FD" />
+      <stop offset="65%" stop-color="#3B82F6" />
+      <stop offset="85%" stop-color="#1E3A8A" />
+      <stop offset="100%" stop-color="#60A5FA" />
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+
+  </defs>
+  <a xlink:href="https://www.abinvarghese.app/" href="https://www.abinvarghese.app/" target="_blank" rel="noopener noreferrer">
+    <g class="pill-container">
+      <!-- Outer rotating gradient border -->
+      <rect x="2" y="2" width="174" height="44" rx="22" ry="22" fill="none" stroke="url(#radar-glow)" stroke-width="1.8" />
+
+      <!-- Dark container background with subtle glow -->
+      <rect x="3" y="3" width="172" height="42" rx="21" ry="21" fill="#081A36" />
+
+      <!-- Inner highlight layer -->
+      <rect x="3" y="3" width="172" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)" />
+
+      <!-- Icon -->
+      <g transform="translate(16, 15)">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
+          <path class="anim-target" fill="#60A5FA" d="M9 1.5a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15zm-5.9 7h3.1c.1-1.3.4-2.5.8-3.6-1.8.8-3.2 2-3.9 3.6zm3.1 2H3.1c.7 1.6 2.1 2.8 3.9 3.6-.4-1.1-.7-2.3-.8-3.6zm1.8 0h2c-.1 1.2-.4 2.2-.8 3-.4-.8-.7-1.8-.8-3zm0-2h2c-.1-1.2-.4-2.2-.8-3-.4.8-.7 1.8-.8 3zm4.9-2h-3.1c-.1-1.3-.4-2.5-.8-3.6 1.8.8 3.2 2 3.9 3.6zm-3.1 4h3.1c-.7 1.6-2.1 2.8-3.9 3.6.4-1.1.7-2.3.8-3.6z" style="animation-delay: 327ms; transform-origin: center;" />
+        </svg>
+      </g>
+
+      <!-- Label -->
+      <text x="44" y="29" text-anchor="start" fill="#F5F5F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0.2">Portfolio / Web</text>
+    </g>
+  </a>
+</svg>
