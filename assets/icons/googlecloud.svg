@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
   <defs>
-    <!-- Refined Luminous Blue Texture Gradient -->
-    <linearGradient id="blue_tex_googlecloud" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1E3A8A" />
-      <stop offset="45%" stop-color="#172554" />
-      <stop offset="100%" stop-color="#0B132B" />
+    <!-- Rich Blue Texture Gradient -->
+    <linearGradient id="bg_googlecloud" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="50%" stop-color="#1D4ED8" />
+      <stop offset="100%" stop-color="#0F172A" />
     </linearGradient>
-    <radialGradient id="specular_googlecloud" cx="35%" cy="25%" r="65%">
-      <stop offset="0%" stop-color="rgba(147, 197, 253, 0.45)" />
-      <stop offset="60%" stop-color="rgba(59, 130, 246, 0.08)" />
+    <radialGradient id="gloss_googlecloud" cx="35%" cy="25%" r="65%">
+      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.35)" />
+      <stop offset="50%" stop-color="rgba(96, 165, 250, 0.1)" />
       <stop offset="100%" stop-color="transparent" />
     </radialGradient>
-    <linearGradient id="border_blue_googlecloud" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="rgba(191, 219, 254, 0.55)" />
-      <stop offset="100%" stop-color="rgba(59, 130, 246, 0.3)" />
+    <linearGradient id="border_googlecloud" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(191, 219, 254, 0.7)" />
+      <stop offset="100%" stop-color="rgba(59, 130, 246, 0.4)" />
     </linearGradient>
   </defs>
 
-  <!-- Blue Textured Base -->
-  <rect x="2" y="2" width="60" height="60" rx="16" ry="16" fill="url(#blue_tex_googlecloud)" stroke="url(#border_blue_googlecloud)" stroke-width="1.2" />
+  <!-- Blue Squircle Base -->
+  <rect x="2" y="2" width="60" height="60" rx="16" ry="16" fill="url(#bg_googlecloud)" stroke="url(#border_googlecloud)" stroke-width="1.5" />
   
-  <!-- Specular Light Overlay for Subtle Glass Texture -->
-  <rect x="2" y="2" width="60" height="60" rx="16" ry="16" fill="url(#specular_googlecloud)" />
+  <!-- Gloss / Specular Texture -->
+  <rect x="2" y="2" width="60" height="60" rx="16" ry="16" fill="url(#gloss_googlecloud)" />
 
-  <!-- Clean Vector Icon Glyph in White -->
-  <g transform="translate(16.00, 16.00) scale(1.3333)">
-    <title>Google Cloud</title><path d="M12.19 2.38a9.344 9.344 0 0 0-9.234 6.893c.053-.02-.055.013 0 0-3.875 2.551-3.922 8.11-.247 10.941l.006-.007-.007.03a6.717 6.717 0 0 0 4.077 1.356h5.173l.03.03h5.192c6.687.053 9.376-8.605 3.835-12.35a9.365 9.365 0 0 0-2.821-4.552l-.043.043.006-.05A9.344 9.344 0 0 0 12.19 2.38zm-.358 4.146c1.244-.04 2.518.368 3.486 1.15a5.186 5.186 0 0 1 1.862 4.078v.518c3.53-.07 3.53 5.262 0 5.193h-5.193l-.008.009v-.04H6.785a2.59 2.59 0 0 1-1.067-.23h.001a2.597 2.597 0 1 1 3.437-3.437l3.013-3.012A6.747 6.747 0 0 0 8.11 8.24c.018-.01.04-.026.054-.023a5.186 5.186 0 0 1 3.67-1.69z"/>
+  <!-- Crisp Vector Glyph with EXPLICIT White Fill -->
+  <g transform="translate(16.00, 16.00) scale(1.3333)" fill="#FFFFFF">
+    <path d="M12.19 2.38a9.344 9.344 0 0 0-9.234 6.893c.053-.02-.055.013 0 0-3.875 2.551-3.922 8.11-.247 10.941l.006-.007-.007.03a6.717 6.717 0 0 0 4.077 1.356h5.173l.03.03h5.192c6.687.053 9.376-8.605 3.835-12.35a9.365 9.365 0 0 0-2.821-4.552l-.043.043.006-.05A9.344 9.344 0 0 0 12.19 2.38zm-.358 4.146c1.244-.04 2.518.368 3.486 1.15a5.186 5.186 0 0 1 1.862 4.078v.518c3.53-.07 3.53 5.262 0 5.193h-5.193l-.008.009v-.04H6.785a2.59 2.59 0 0 1-1.067-.23h.001a2.597 2.597 0 1 1 3.437-3.437l3.013-3.012A6.747 6.747 0 0 0 8.11 8.24c.018-.01.04-.026.054-.023a5.186 5.186 0 0 1 3.67-1.69z"/>
   </g>
 </svg>
