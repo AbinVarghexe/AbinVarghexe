@@ -7,12 +7,15 @@
 
 <br/><br/>
 
+<!-- Animated ASCII Portrait Stream & Core Identity -->
 <table border="0" style="border: none;">
   <tr>
     <td align="center" style="border: none; padding-right: 28px;">
       <a href="https://www.abinvarghese.app/">
-        <img src="assets/profile_blue.png" width="160" height="160" style="border-radius: 28px; border: 2px solid #3B82F6;" alt="Abin Varghese" />
+        <img src="assets/ascii_avatar.gif" width="220" alt="Abin Varghese · Animated ASCII Stream" style="border-radius: 18px;" />
       </a>
+      <br/>
+      <sub><em>Biometric ASCII Stream &bull; 24-Frame Loop</em></sub>
     </td>
     <td align="left" style="border: none;">
 <pre>
@@ -21,6 +24,7 @@
 <b>LOCATION</b>   &bull; Idukki, Kerala, India [09°51'N 76°58'E]
 <b>FOCUS</b>      &bull; High-Performance Systems &bull; Thoughtful Interfaces
 <b>PALETTE</b>    &bull; #070A10 &bull; #3B82F6 &bull; #FFFFFF &bull; #A1A1AA
+<b>ENGINE</b>     &bull; Living Git-Koi &bull; Neural ASCII Terminal
 </pre>
     </td>
   </tr>
