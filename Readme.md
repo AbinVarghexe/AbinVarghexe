@@ -9,7 +9,7 @@
 
 <!-- GitAscii Animated Terminal Portrait & Neofetch System Deck (Blue & White Theme) -->
 <a href="https://www.abinvarghese.app/">
-  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/gitascii_profile.svg?v=1" width="100%" alt="GitAscii Profile &amp; Terminal Deck" />
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/gitascii_profile.svg?v=2" width="100%" alt="GitAscii Profile &amp; Terminal Deck" />
 </a>
 
 <!-- Dynamic Typewriter Animation in Electric Blue -->
@@ -248,6 +248,13 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
   <a href="https://www.instagram.com/abeeeein/"><img src="https://img.shields.io/badge/Instagram-@abeeeein-0B0F17?style=flat-square&logo=instagram&logoColor=7DA3F6" /></a> &nbsp;
   <a href="mailto:toabinvarghese@gmail.com"><img src="https://img.shields.io/badge/Email-toabinvarghese@gmail.com-0B0F17?style=flat-square&logo=gmail&logoColor=7DA3F6" /></a>
 </p>
+
+<!-- ASCII Footer Masthead (The Name at Footer Section from gitascii.json) -->
+<a href="https://www.abinvarghese.app/">
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/ascii_footer.svg?v=1" width="100%" alt="Abin Varghese" />
+</a>
+
+<br/><br/>
 
 <sub>Crafted with intention &bull; © 2026 Abin Varghese</sub>
 
