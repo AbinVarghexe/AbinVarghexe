@@ -3,9 +3,9 @@
 <!-- GitAscii Adaptive Profile (ASCII Portrait, Neofetch Info Deck & Pure Blue Social Badges) -->
 <a href="https://www.abinvarghese.app/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/light.svg?v=5">
-  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=5" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/light.svg?v=6">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=6" width="100%">
 </picture>
 </a>
 
@@ -184,8 +184,8 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 <!-- Bottom ASCII Typography Banner (At the Very Bottom) -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer_dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer_light.svg?v=5">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer_dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer_light.svg?v=6">
   <img alt="Abin Varghese ASCII Typography Banner" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer.svg?v=5" width="100%">
 </picture>
 </div>
