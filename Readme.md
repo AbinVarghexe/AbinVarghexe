@@ -3,9 +3,9 @@
 <!-- GitAscii Adaptive Profile (ASCII Portrait, Neofetch Info Deck & Pure Blue Social Badges) -->
 <a href="https://www.abinvarghese.app/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/light.svg?v=6">
-  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=6" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/light.svg?v=7">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=7" width="100%">
 </picture>
 </a>
 
@@ -16,7 +16,7 @@
   <tr>
     <td align="center" style="border: none; padding: 6px;">
       <a href="https://github.com/AbinVarghexe">
-        <img src="https://streak-stats.demolab.com/?user=AbinVarghexe&theme=dark&background=080D1A&border=1E3A8A&stroke=7DA3F6&ring=7DA3F6&fire=7DA3F6&currStreakNum=FFFFFF&sideNums=A1A1AA&currStreakLabel=7DA3F6&sideLabels=9CA3AF&dates=6B7280&hide_border=false" width="410" alt="Streak Stats" />
+        <img src="https://streak-stats.vercel.app/?user=AbinVarghexe&theme=dark&background=080D1A&border=1E3A8A&stroke=7DA3F6&ring=7DA3F6&fire=7DA3F6&currStreakNum=FFFFFF&sideNums=A1A1AA&currStreakLabel=7DA3F6&sideLabels=9CA3AF&dates=6B7280&hide_border=false" width="410" alt="Streak Stats" />
       </a>
     </td>
     <td align="center" style="border: none; padding: 6px;">
@@ -183,8 +183,8 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 <!-- Bottom ASCII Typography Banner (At the Very Bottom) -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer_dark.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer_light.svg?v=6">
-  <img alt="Abin Varghese ASCII Typography Banner" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer.svg?v=5" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer_dark.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer_light.svg?v=7">
+  <img alt="Abin Varghese ASCII Typography Banner" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/main/assets/ascii_footer.svg?v=7" width="100%">
 </picture>
 </div>
