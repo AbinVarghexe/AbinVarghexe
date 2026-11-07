@@ -21,14 +21,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Harmonize Palette (Black, Blue, White, Grey)
+      - name: Harmonize Palette & Strip Background/Text
         run: |
           python3 -c "
-          import os
+          import os, re
           p = 'profile-3d-contrib/profile-night-view.svg'
           if os.path.exists(p):
               c = open(p).read()
-              c = c.replace('#f1e05a', '#7DA3F6').replace('#e34c26', '#3B82F6').replace('rgb(255,200,55)', '#7DA3F6').replace('#00B4AB', '#38BDF8').replace('#00000f', '#070A10')
+              c = c.replace('#f1e05a', '#7DA3F6').replace('#e34c26', '#3B82F6').replace('rgb(255,200,55)', '#7DA3F6').replace('#00B4AB', '#38BDF8')
+              c = re.sub(r'<rect [^>]*fill=\"(?:#070A10|#00000f|#000|none)\"[^>]*/>', '', c)
+              c = re.sub(r'<text[^>]*>.*?</text>', '', c, flags=re.DOTALL)
               open(p, 'w').write(c)
           "
 
