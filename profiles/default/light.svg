@@ -1,9 +1,9 @@
-<svg width="800" height="410" viewBox="0 0 800 410" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+<svg width="800" height="370" viewBox="0 0 800 370" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
   <defs>
-    <!-- Background Card Gradient -->
+    <!-- Card Gradient -->
     <linearGradient id="cardGrad_light" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#F1F5F9"/>
-      <stop offset="100%" stop-color="#E2E8F0"/>
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#EEF2F6"/>
     </linearGradient>
 
     <!-- Ascii Ink Gradient -->
@@ -26,7 +26,7 @@
 
   <style>
     .mono {
-      font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+      font-family: 'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace;
       text-rendering: geometricPrecision;
     }
     .badge-lbl {
@@ -38,22 +38,13 @@
     }
   </style>
 
-  <!-- Canvas Background -->
-  <rect width="800" height="410" fill="#FFFFFF" rx="12"/>
+  <!-- Background -->
+  <rect width="800" height="370" fill="#FFFFFF" rx="12"/>
 
-  <!-- ==================== LEFT CARD: ASCII PORTRAIT ==================== -->
-  <g id="card-portrait">
-    <rect x="16" y="16" width="374" height="320" rx="10" fill="url(#cardGrad_light)" stroke="#93C5FD" stroke-width="1.2"/>
-    
-    <!-- Titlebar with Abin Varghese -->
-    <line x1="16" y1="44" x2="390" y2="44" stroke="#CBD5E1" stroke-width="1"/>
-    <circle cx="32" cy="30" r="4" fill="#3B82F6"/>
-    <circle cx="44" cy="30" r="4" fill="#60A5FA"/>
-    <circle cx="56" cy="30" r="4" fill="#0F172A"/>
-    <text x="213.0" y="34" class="mono" font-size="11" font-weight="600" fill="#1D4ED8" text-anchor="middle">Abin Varghese @ github: ~$ ./portrait.sh</text>
-
-    <!-- Inner SVG with preserveAspectRatio="xMidYMid meet" (ZERO STRETCHING) -->
-    <svg x="28" y="50" width="350" height="248" viewBox="0 0 783.0 750.0" preserveAspectRatio="xMidYMid meet">
+  <!-- ==================== LEFT CARD: PURE GITASCII PORTRAIT ==================== -->
+  <g id="widget-asciiprofile-portrait">
+    <rect x="16" y="16" width="280" height="280" rx="8" fill="url(#cardGrad_light)" stroke="#93C5FD" stroke-width="1.2"/>
+    <svg x="26" y="26" width="260" height="260" viewBox="0 0 783.0 750.0" preserveAspectRatio="xMidYMid meet">
 
       <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="8.5" font-family="'JetBrains Mono', Consolas, monospace" font-size="9" fill="url(#asciiInk_light)" xml:space="preserve">iiiiiiiririrrrrrsssssrsssssXssrsssXs25555353h3hhhhhhh33hhhhMMMMMMMHSSSS#SSSS#SS#SS#SS#SS#SS#SS###S##S#SS#S#S#S#S##S##SS#S#SS#S##S#S#S#S###S##SSSSSSSSS</text>
       <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="18.5" font-family="'JetBrains Mono', Consolas, monospace" font-size="9" fill="url(#asciiInk_light)" xml:space="preserve">;;:;::;::;:::;:;;;i;;;iXXiii;;;i;;;rAXssssXXsXXXXXAXX2AAAAAAXAXXAA33552525552552522525252525255252525255552525252552252522552525552552552552552222225S</text>
@@ -131,106 +122,80 @@
       <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="738.5" font-family="'JetBrains Mono', Consolas, monospace" font-size="9" fill="url(#asciiInk_light)" xml:space="preserve">i,ii;.              ;s5XXXsXXsssssXsXXhi        .:::,. .:::..:::,.    .          .,;iXXAA5#99M5553533525AXsrrii;i;i;ii;ii;i;i;iiii;i;ii;i;irirssXssrrA</text>
       <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="748.5" font-family="'JetBrains Mono', Consolas, monospace" font-size="9" fill="url(#asciiInk_light)" xml:space="preserve">,:r,                X555533553333535533:          .:,.   ::   ::,                 .:ASS##S#SSSGGHHHh55AXssssssssssXssXssXsXsXsssXsXXsssssXX22222222222</text>
     </svg>
-
-    <!-- Bottom Prompt Line with Abin Varghese Name -->
-    <line x1="16" y1="308" x2="390" y2="308" stroke="#CBD5E1" stroke-width="1"/>
-    <text x="30" y="326" class="mono" font-size="11" fill="#1D4ED8">
-      Abin Varghese @ github:~$ whoami <tspan fill="#0F172A" font-weight="700">Abin Varghese</tspan>
-    </text>
-    <rect x="278" y="316" width="6" height="12" fill="#60A5FA">
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
   </g>
 
-  <!-- ==================== RIGHT CARD: ASCII INFO (NEOFETCH) ==================== -->
-  <g id="card-info">
-    <rect x="410" y="16" width="374" height="320" rx="10" fill="url(#cardGrad_light)" stroke="#93C5FD" stroke-width="1.2"/>
-    
-    <!-- Titlebar with Abin Varghese -->
-    <line x1="410" y1="44" x2="784" y2="44" stroke="#CBD5E1" stroke-width="1"/>
-    <circle cx="426" cy="30" r="4" fill="#3B82F6"/>
-    <circle cx="438" cy="30" r="4" fill="#60A5FA"/>
-    <circle cx="450" cy="30" r="4" fill="#0F172A"/>
-    <text x="607.0" y="34" class="mono" font-size="11" font-weight="600" fill="#1D4ED8" text-anchor="middle">Abin Varghese @ github: ~$ neofetch</text>
+  <!-- ==================== RIGHT CARD: PURE GITASCII EDITORIAL INFO ==================== -->
+  <g id="widget-asciiprofile-info">
+    <rect x="312" y="16" width="472" height="280" rx="8" fill="url(#cardGrad_light)" stroke="#93C5FD" stroke-width="1.2"/>
 
-    <!-- Header Divider with Abin Varghese Name -->
-    <text x="426" y="70" class="mono" font-size="12">
-      <tspan fill="#3B82F6">&#8212;</tspan><tspan fill="#60A5FA" font-weight="700"> Abin Varghese @ github </tspan><tspan fill="#CBD5E1">────────────────</tspan>
+    <!-- Section: Identity Banner -->
+    <text x="332" y="52" class="mono" font-size="13.5">
+      <tspan fill="#CBD5E1">─</tspan><tspan fill="#1D4ED8" font-weight="700"> Abin Varghese @ github </tspan><tspan fill="#CBD5E1">────────────────────</tspan>
     </text>
 
-    <!-- Details without Identity, Role, System, Architecture. Added Frontend Developer. -->
-    <text x="426" y="98" class="mono" font-size="11.5">
-      <tspan fill="#2563EB">. Dev: </tspan><tspan fill="#CBD5E1">.................</tspan><tspan fill="#0F172A" font-weight="700"> Frontend Developer</tspan>
+    <text x="332" y="82" class="mono" font-size="12.5" xml:space="preserve">
+      <tspan fill="#2563EB">. Dev: </tspan><tspan fill="#CBD5E1">.......................</tspan><tspan fill="#0F172A" font-weight="700"> Frontend Developer</tspan>
     </text>
-    <text x="426" y="124" class="mono" font-size="11.5">
-      <tspan fill="#2563EB">. UI: </tspan><tspan fill="#CBD5E1">..................</tspan><tspan fill="#0F172A"> Product &amp; Interface Design</tspan>
+    <text x="332" y="106" class="mono" font-size="12.5" xml:space="preserve">
+      <tspan fill="#2563EB">. UI: </tspan><tspan fill="#CBD5E1">................</tspan><tspan fill="#0F172A" > Product &amp; Interface Design</tspan>
     </text>
-    <text x="426" y="150" class="mono" font-size="11.5">
-      <tspan fill="#2563EB">. Loc: </tspan><tspan fill="#CBD5E1">.................</tspan><tspan fill="#0F172A"> Kerala, India</tspan>
+    <text x="332" y="130" class="mono" font-size="12.5" xml:space="preserve">
+      <tspan fill="#2563EB">. Location: </tspan><tspan fill="#CBD5E1">.......................</tspan><tspan fill="#0F172A" > Kerala, India</tspan>
     </text>
-    <text x="426" y="176" class="mono" font-size="11.5">
-      <tspan fill="#2563EB">. Site: </tspan><tspan fill="#CBD5E1">................</tspan><tspan fill="#60A5FA"> https://abinvarghese.app</tspan>
-    </text>
-
-    <!-- Section: Stack (React, Next.js, JavaScript, HTML & AWS, Docker) -->
-    <text x="426" y="212" class="mono" font-size="12">
-      <tspan fill="#3B82F6">&#8212;</tspan><tspan fill="#60A5FA" font-weight="700"> Stack </tspan><tspan fill="#CBD5E1">───────────────────────────────────</tspan>
-    </text>
-    <text x="426" y="240" class="mono" font-size="11.5">
-      <tspan fill="#2563EB">. Frontend: </tspan><tspan fill="#CBD5E1">............</tspan><tspan fill="#0F172A"> React, Next.js, JavaScript, HTML</tspan>
-    </text>
-    <text x="426" y="266" class="mono" font-size="11.5">
-      <tspan fill="#2563EB">. Cloud: </tspan><tspan fill="#CBD5E1">...............</tspan><tspan fill="#0F172A"> AWS, Docker</tspan>
+    <text x="332" y="154" class="mono" font-size="12.5" xml:space="preserve">
+      <tspan fill="#2563EB">. Website: </tspan><tspan fill="#CBD5E1">.............</tspan><tspan fill="#60A5FA" > https://abinvarghese.app</tspan>
     </text>
 
-    <!-- Bottom Status Line -->
-    <line x1="410" y1="308" x2="784" y2="308" stroke="#CBD5E1" stroke-width="1"/>
-    <text x="424" y="326" class="mono" font-size="11" fill="#1D4ED8">
-      Abin Varghese @ github:~$ status <tspan fill="#0F172A" font-weight="700">Ready</tspan>
+    <!-- Section: Stack -->
+    <text x="332" y="196" class="mono" font-size="13.5">
+      <tspan fill="#CBD5E1">─</tspan><tspan fill="#1D4ED8" font-weight="700"> Stack </tspan><tspan fill="#CBD5E1">───────────────────────────────────────────</tspan>
     </text>
-    <rect x="630" y="316" width="6" height="12" fill="#60A5FA">
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
+    <text x="332" y="224" class="mono" font-size="12.5" xml:space="preserve">
+      <tspan fill="#2563EB">. Frontend: </tspan><tspan fill="#CBD5E1">............</tspan><tspan fill="#0F172A"> React, Next.js, JS, HTML</tspan>
+    </text>
+    <text x="332" y="248" class="mono" font-size="12.5" xml:space="preserve">
+      <tspan fill="#2563EB">. Cloud: </tspan><tspan fill="#CBD5E1">............................</tspan><tspan fill="#0F172A"> AWS, Docker</tspan>
+    </text>
   </g>
 
   <!-- ==================== SOCIAL BADGES (PURE BLUE THEME) ==================== -->
-  <g id="social-badges">
+  <g id="widget-codeweb-social-badge">
 
     <g id="badge-github">
-      <rect x="16.0" y="352" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_light)" stroke-width="1.8"/>
-      <rect x="17.0" y="353" width="178" height="38" rx="19" fill="#F1F5F9"/>
-      <svg x="34.0" y="362" width="20" height="20" viewBox="0 0 18 18">
+      <rect x="16.0" y="312" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_light)" stroke-width="1.8"/>
+      <rect x="17.0" y="313" width="178" height="38" rx="19" fill="#F8FAFC"/>
+      <svg x="34.0" y="322" width="20" height="20" viewBox="0 0 18 18">
         <path fill="#0F172A" fill-rule="evenodd" clip-rule="evenodd" d="M9 1.5C4.858 1.5 1.5 4.858 1.5 9c0 3.314 2.149 6.126 5.13 7.12.375.068.513-.163.513-.361v-1.266c-2.087.454-2.527-.946-2.527-.946-.341-.867-.833-1.098-.833-1.098-.681-.466.052-.456.052-.456.753.053 1.15.773 1.15.773.67 1.147 1.756.816 2.184.624.068-.485.262-.816.476-1.003-1.666-.19-3.418-.833-3.418-3.708 0-.819.292-1.488.773-2.013-.078-.19-.335-.952.073-1.986 0 0 .63-.202 2.063.769.598-.166 1.24-.249 1.878-.252.637.003 1.279.086 1.878.252 1.432-.971 2.061-.769 2.061-.769.41 1.034.153 1.796.075 1.986.482.525.772 1.194.772 2.013 0 2.883-1.755 3.515-3.426 3.702.27.233.51.691.51 1.393v2.065c0 .201.136.433.517.359C14.354 15.122 16.5 12.312 16.5 9c0-4.142-3.358-7.5-7.5-7.5z"/>
       </svg>
-      <text x="64.0" y="377" class="badge-lbl">GitHub</text>
-      <circle cx="178.0" cy="372" r="3" fill="#3B82F6"/>
+      <text x="64.0" y="337" class="badge-lbl">GitHub</text>
+      <circle cx="178.0" cy="332" r="3" fill="#3B82F6"/>
     </g>
     <g id="badge-instagram">
-      <rect x="212.0" y="352" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_light)" stroke-width="1.8"/>
-      <rect x="213.0" y="353" width="178" height="38" rx="19" fill="#F1F5F9"/>
-      <svg x="230.0" y="362" width="20" height="20" viewBox="0 0 18 18">
+      <rect x="212.0" y="312" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_light)" stroke-width="1.8"/>
+      <rect x="213.0" y="313" width="178" height="38" rx="19" fill="#F8FAFC"/>
+      <svg x="230.0" y="322" width="20" height="20" viewBox="0 0 18 18">
         <path fill="#60A5FA" d="M9 3.5c1.792 0 2.004.007 2.712.039.655.03 1.011.139 1.248.231.314.122.538.267.773.502.235.235.38.459.502.773.092.237.201.593.231 1.248.032.708.039.92.039 2.712s-.007 2.004-.039 2.712c-.03.655-.139 1.011-.231 1.248-.122.314-.267.538-.502.773-.235.235-.459.38-.773.502-.237.092-.593.201-1.248.231-.708.032-.92.039-2.712.039s-2.004-.007-2.712-.039c-.655-.03-1.011-.139-1.248-.231-.314-.122-.538-.267-.773-.502-.235-.235-.38-.459-.502-.773-.092-.237-.201-.593-.231-1.248C3.507 11.004 3.5 10.792 3.5 9s.007-2.004.039-2.712c.03-.655.139-1.011.231-1.248.122-.314.267-.538.502-.773.235-.235.459-.38.773-.502.237-.092.593-.201 1.248-.231.708-.032.92-.039 2.712-.039zm0-1.5c-1.823 0-2.051.008-2.766.04-.714.033-1.202.146-1.629.312a3.868 3.868 0 0 0-1.398.91 3.868 3.868 0 0 0-.91 1.398c-.166.427-.279.915-.312 1.629C2.008 6.949 2 7.177 2 9c0 1.823.008 2.051.04 2.766.033.714.146 1.202.312 1.629.166.427.387.79.91 1.398.523.523.886.744 1.398.91.427.166.915.279 1.629.312.715.032.943.04 2.766.04s2.051-.008 2.766-.04c.714-.033 1.202-.146 1.629-.312.427-.166.875-.387 1.398-.91.523-.523.744-.886.91-1.398.166-.427.279-.915.312-1.629.032-.715.04-.943.04-2.766s-.008-2.051-.04-2.766c-.033-.714-.146-1.202-.312-1.629a3.868 3.868 0 0 0-.91-1.398 3.868 3.868 0 0 0-1.398-.91c-.427-.166-.915-.279-1.629-.312C11.051 2.008 10.82 2 9 2zm0 3.414A3.586 3.586 0 1 0 12.586 9 3.586 3.586 0 0 0 9 5.414zm0 5.758A2.172 2.172 0 1 1 11.172 9 2.172 2.172 0 0 1 9 11.172zm3.727-6.07a.838.838 0 1 1-.838-.838.838.838 0 0 1 .838.838z"/>
       </svg>
-      <text x="260.0" y="377" class="badge-lbl">Instagram</text>
-      <circle cx="374.0" cy="372" r="3" fill="#3B82F6"/>
+      <text x="260.0" y="337" class="badge-lbl">Instagram</text>
+      <circle cx="374.0" cy="332" r="3" fill="#3B82F6"/>
     </g>
     <g id="badge-gmail">
-      <rect x="408.0" y="352" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_light)" stroke-width="1.8"/>
-      <rect x="409.0" y="353" width="178" height="38" rx="19" fill="#F1F5F9"/>
-      <svg x="426.0" y="362" width="20" height="20" viewBox="0 0 18 18">
+      <rect x="408.0" y="312" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_light)" stroke-width="1.8"/>
+      <rect x="409.0" y="313" width="178" height="38" rx="19" fill="#F8FAFC"/>
+      <svg x="426.0" y="322" width="20" height="20" viewBox="0 0 18 18">
         <path fill="#60A5FA" d="M1.5 4.5v9a1.5 1.5 0 0 0 1.5 1.5h1.5V8.25L9 11.25l4.5-3v6.75H15a1.5 1.5 0 0 0 1.5-1.5v-9L9 8.25 1.5 4.5z"/><path fill="#93C5FD" d="M16.5 4.5V3A1.5 1.5 0 0 0 15 1.5h-1.5L9 4.5l4.5 3.75 3-3.75z"/><path fill="#3B82F6" d="M1.5 4.5l3 3.75L9 4.5 4.5 1.5H3A1.5 1.5 0 0 0 1.5 3v1.5z"/>
       </svg>
-      <text x="456.0" y="377" class="badge-lbl">Gmail</text>
-      <circle cx="570.0" cy="372" r="3" fill="#3B82F6"/>
+      <text x="456.0" y="337" class="badge-lbl">Gmail</text>
+      <circle cx="570.0" cy="332" r="3" fill="#3B82F6"/>
     </g>
     <g id="badge-portfolio">
-      <rect x="604.0" y="352" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_light)" stroke-width="1.8"/>
-      <rect x="605.0" y="353" width="178" height="38" rx="19" fill="#F1F5F9"/>
-      <svg x="622.0" y="362" width="20" height="20" viewBox="0 0 18 18">
+      <rect x="604.0" y="312" width="180" height="40" rx="20" fill="none" stroke="url(#auraGrad_light)" stroke-width="1.8"/>
+      <rect x="605.0" y="313" width="178" height="38" rx="19" fill="#F8FAFC"/>
+      <svg x="622.0" y="322" width="20" height="20" viewBox="0 0 18 18">
         <path fill="#3B82F6" d="M9 1.5a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15zm-5.9 7h3.1c.1-1.3.4-2.5.8-3.6-1.8.8-3.2 2-3.9 3.6zm3.1 2H3.1c.7 1.6 2.1 2.8 3.9 3.6-.4-1.1-.7-2.3-.8-3.6zm1.8 0h2c-.1 1.2-.4 2.2-.8 3-.4-.8-.7-1.8-.8-3zm0-2h2c-.1-1.2-.4-2.2-.8-3-.4.8-.7 1.8-.8 3zm4.9-2h-3.1c-.1-1.3-.4-2.5-.8-3.6 1.8.8 3.2 2 3.9 3.6zm-3.1 4h3.1c-.7 1.6-2.1 2.8-3.9 3.6.4-1.1.7-2.3.8-3.6z"/>
       </svg>
-      <text x="652.0" y="377" class="badge-lbl">Portfolio</text>
-      <circle cx="766.0" cy="372" r="3" fill="#3B82F6"/>
+      <text x="652.0" y="337" class="badge-lbl">Portfolio</text>
+      <circle cx="766.0" cy="332" r="3" fill="#3B82F6"/>
     </g>
   </g>
 </svg>
