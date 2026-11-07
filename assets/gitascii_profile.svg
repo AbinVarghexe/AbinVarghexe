@@ -1,0 +1,439 @@
+<svg width="840" height="380" viewBox="0 0 840 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#070C18"/>
+      <stop offset="100%" stop-color="#04070F"/>
+    </linearGradient>
+
+    <!-- Blue and White Ascii Ink Gradient -->
+    <linearGradient id="blueWhiteInk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="25%" stop-color="#E0F2FE"/>
+      <stop offset="60%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+
+    <!-- Terminal Frame Border Gradient -->
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+
+    <clipPath id="gitascii-row-0">
+      <rect x="32" y="58.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.000s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-1">
+      <rect x="32" y="69.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.045s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-2">
+      <rect x="32" y="80.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.090s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-3">
+      <rect x="32" y="91.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.135s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-4">
+      <rect x="32" y="102.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.180s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-5">
+      <rect x="32" y="113.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.225s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-6">
+      <rect x="32" y="124.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.270s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-7">
+      <rect x="32" y="135.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.315s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-8">
+      <rect x="32" y="146.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.360s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-9">
+      <rect x="32" y="157.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.405s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-10">
+      <rect x="32" y="168.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.450s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-11">
+      <rect x="32" y="179.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.495s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-12">
+      <rect x="32" y="190.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.540s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-13">
+      <rect x="32" y="201.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.585s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-14">
+      <rect x="32" y="212.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.630s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-15">
+      <rect x="32" y="223.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.675s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-16">
+      <rect x="32" y="234.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.720s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-17">
+      <rect x="32" y="245.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.765s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-18">
+      <rect x="32" y="256.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.810s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-19">
+      <rect x="32" y="267.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.855s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-20">
+      <rect x="32" y="278.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.900s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-21">
+      <rect x="32" y="289.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.945s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-22">
+      <rect x="32" y="300.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="0.990s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="gitascii-row-23">
+      <rect x="32" y="311.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="338.0" begin="1.035s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'Courier New', monospace;
+      text-rendering: geometricPrecision;
+    }
+    .term-title {
+      font-family: 'JetBrains Mono', 'Consolas', monospace;
+      font-size: 11px;
+      font-weight: 500;
+      fill: #93C5FD;
+      letter-spacing: 0.5px;
+    }
+  </style>
+
+  <!-- LEFT PANEL: GitAscii Portrait Terminal -->
+  <g id="gitascii-portrait">
+    <rect x="16" y="16" width="370" height="348" rx="12" fill="url(#cardBg)" stroke="url(#borderGrad)" stroke-width="1"/>
+    
+    <!-- Titlebar -->
+    <line x1="16" y1="46" x2="386" y2="46" stroke="#1E293B" stroke-width="1"/>
+    <circle cx="34" cy="31.0" r="4.5" fill="#3B82F6"/>
+    <circle cx="50" cy="31.0" r="4.5" fill="#60A5FA"/>
+    <circle cx="66" cy="31.0" r="4.5" fill="#FFFFFF"/>
+    <text x="201.0" y="35.0" class="term-title" text-anchor="middle">AbinVarghexe@github: ~$ ./portrait.sh</text>
+
+    <g clip-path="url(#gitascii-row-0)">
+      <text x="32" y="67.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">                                            </text>
+    </g>
+    <rect x="32" y="59.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.000s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.000s"/>
+      <set attributeName="opacity" to="0" begin="0.080s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-1)">
+      <text x="32" y="78.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">                                            </text>
+    </g>
+    <rect x="32" y="70.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.045s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.045s"/>
+      <set attributeName="opacity" to="0" begin="0.125s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-2)">
+      <text x="32" y="89.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">                    L19Z!                   </text>
+    </g>
+    <rect x="32" y="81.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.090s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.090s"/>
+      <set attributeName="opacity" to="0" begin="0.170s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-3)">
+      <text x="32" y="100.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">              _S@@@@@@@@@D=                 </text>
+    </g>
+    <rect x="32" y="92.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.135s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.135s"/>
+      <set attributeName="opacity" to="0" begin="0.215s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-4)">
+      <text x="32" y="111.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">            &apos;2@@@@@@@@@@@@@o.               </text>
+    </g>
+    <rect x="32" y="103.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.180s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.180s"/>
+      <set attributeName="opacity" to="0" begin="0.260s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-5)">
+      <text x="32" y="122.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">          ` 3@@@@@@@b28h@@@@u `             </text>
+    </g>
+    <rect x="32" y="114.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.225s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.225s"/>
+      <set attributeName="opacity" to="0" begin="0.305s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-6)">
+      <text x="32" y="133.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">          `-@@@@@@2  ,FZp@@@T `             </text>
+    </g>
+    <rect x="32" y="125.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.270s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.270s"/>
+      <set attributeName="opacity" to="0" begin="0.350s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-7)">
+      <text x="32" y="144.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">           .9@@@@@@Gt@@@@]@8}               </text>
+    </g>
+    <rect x="32" y="136.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.315s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.315s"/>
+      <set attributeName="opacity" to="0" begin="0.395s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-8)">
+      <text x="32" y="155.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">             v@@@@@@7?x1`|HI*               </text>
+    </g>
+    <rect x="32" y="147.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.360s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.360s"/>
+      <set attributeName="opacity" to="0" begin="0.440s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-9)">
+      <text x="32" y="166.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">            .&gt;@@@u{G9C&lt;+iXf`                </text>
+    </g>
+    <rect x="32" y="158.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.405s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.405s"/>
+      <set attributeName="opacity" to="0" begin="0.485s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-10)">
+      <text x="32" y="177.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">               i0@@@@%pp@@T``               </text>
+    </g>
+    <rect x="32" y="169.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.450s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.450s"/>
+      <set attributeName="opacity" to="0" begin="0.530s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-11)">
+      <text x="32" y="188.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">              `  D@@@K3tNU   `.`            </text>
+    </g>
+    <rect x="32" y="180.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.495s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.495s"/>
+      <set attributeName="opacity" to="0" begin="0.575s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-12)">
+      <text x="32" y="199.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">            ``  &apos;$@@@@@@Avp/     .`         </text>
+    </g>
+    <rect x="32" y="191.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.540s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.540s"/>
+      <set attributeName="opacity" to="0" begin="0.620s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-13)">
+      <text x="32" y="210.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">         ``   )8@@@@@@@$IS@@@@O{    `       </text>
+    </g>
+    <rect x="32" y="202.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.585s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.585s"/>
+      <set attributeName="opacity" to="0" begin="0.665s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-14)">
+      <text x="32" y="221.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">       `   =]@@@@@@@@@@@@@@@@@@@@8u+        </text>
+    </g>
+    <rect x="32" y="213.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.630s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.630s"/>
+      <set attributeName="opacity" to="0" begin="0.710s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-15)">
+      <text x="32" y="232.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">         ig@@@@@@@@@@@@@@@@@@@@@@@@@R:      </text>
+    </g>
+    <rect x="32" y="224.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.675s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.675s"/>
+      <set attributeName="opacity" to="0" begin="0.755s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-16)">
+      <text x="32" y="243.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">       5@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      </text>
+    </g>
+    <rect x="32" y="235.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.720s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.720s"/>
+      <set attributeName="opacity" to="0" begin="0.800s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-17)">
+      <text x="32" y="254.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">      |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@y     </text>
+    </g>
+    <rect x="32" y="246.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.765s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.765s"/>
+      <set attributeName="opacity" to="0" begin="0.845s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-18)">
+      <text x="32" y="265.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">      $@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </text>
+    </g>
+    <rect x="32" y="257.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.810s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.810s"/>
+      <set attributeName="opacity" to="0" begin="0.890s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-19)">
+      <text x="32" y="276.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@t    </text>
+    </g>
+    <rect x="32" y="268.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.855s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.855s"/>
+      <set attributeName="opacity" to="0" begin="0.935s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-20)">
+      <text x="32" y="287.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </text>
+    </g>
+    <rect x="32" y="279.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.900s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.900s"/>
+      <set attributeName="opacity" to="0" begin="0.980s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-21)">
+      <text x="32" y="298.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">     J@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </text>
+    </g>
+    <rect x="32" y="290.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.945s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.945s"/>
+      <set attributeName="opacity" to="0" begin="1.025s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-22)">
+      <text x="32" y="309.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">     f@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@H   </text>
+    </g>
+    <rect x="32" y="301.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="0.990s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="0.990s"/>
+      <set attributeName="opacity" to="0" begin="1.070s"/>
+    </rect>
+    <g clip-path="url(#gitascii-row-23)">
+      <text x="32" y="320.0" class="mono" font-size="10.4" fill="url(#blueWhiteInk)" textLength="338.0" lengthAdjust="spacing" xml:space="preserve">     x@@@@@@@@@@@@@@@@@@@@@@@@@@@@J&lt;{|K@O   </text>
+    </g>
+    <rect x="32" y="312.0" width="6" height="10.0" fill="#60A5FA" opacity="0">
+      <animate attributeName="x" from="32" to="370.0" begin="1.035s" dur="0.08s" fill="freeze"/>
+      <set attributeName="opacity" to="0.9" begin="1.035s"/>
+      <set attributeName="opacity" to="0" begin="1.115s"/>
+    </rect>
+
+    <!-- Bottom Prompt Line -->
+    <line x1="16" y1="334" x2="386" y2="334" stroke="#1E293B" stroke-width="1"/>
+    <text x="32" y="353" class="mono" font-size="12" fill="#93C5FD">
+      AbinVarghexe@github:~$ whoami <tspan fill="#FFFFFF" font-weight="700">Abin Varghese</tspan>
+    </text>
+    <rect x="298" y="342" width="7" height="13" fill="#60A5FA">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- RIGHT PANEL: Terminal Neofetch Deck -->
+  <g id="gitascii-terminal-deck">
+    <rect x="402" y="16" width="422" height="348" rx="12" fill="url(#cardBg)" stroke="url(#borderGrad)" stroke-width="1"/>
+    
+    <!-- Titlebar -->
+    <line x1="402" y1="46" x2="824" y2="46" stroke="#1E293B" stroke-width="1"/>
+    <circle cx="420" cy="31.0" r="4.5" fill="#3B82F6"/>
+    <circle cx="436" cy="31.0" r="4.5" fill="#60A5FA"/>
+    <circle cx="452" cy="31.0" r="4.5" fill="#FFFFFF"/>
+    <text x="613.0" y="35.0" class="term-title" text-anchor="middle">sysinfo --neofetch</text>
+
+    <!-- Main Content Lines -->
+    <!-- Section 1: Identity & Architecture -->
+    <text x="420" y="70" class="mono" font-size="12">
+      <tspan fill="#2563EB">─</tspan><tspan fill="#60A5FA" font-weight="700"> abinvarghexe@github </tspan><tspan fill="#1E3A8A">─────────────────────────</tspan>
+    </text>
+    
+    <text x="420" y="92" class="mono" font-size="12">
+      <tspan fill="#93C5FD">. Status: </tspan><tspan fill="#1E293B">......................</tspan><tspan fill="#FFFFFF" font-weight="600"> Systems &amp; AI Architect</tspan>
+    </text>
+    <text x="420" y="112" class="mono" font-size="12">
+      <tspan fill="#93C5FD">. Location: </tspan><tspan fill="#1E293B">....................</tspan><tspan fill="#FFFFFF"> Kerala, India</tspan>
+    </text>
+    <text x="420" y="132" class="mono" font-size="12">
+      <tspan fill="#93C5FD">. Focus: </tspan><tspan fill="#1E293B">.......................</tspan><tspan fill="#FFFFFF"> Autonomous Swarms &amp; Web Edge</tspan>
+    </text>
+    <text x="420" y="152" class="mono" font-size="12">
+      <tspan fill="#93C5FD">. Languages: </tspan><tspan fill="#1E293B">...................</tspan><tspan fill="#FFFFFF"> Python, Go, JS, HTML5, C#</tspan>
+    </text>
+
+    <!-- Section 2: Contact Channels -->
+    <text x="420" y="184" class="mono" font-size="12">
+      <tspan fill="#2563EB">─</tspan><tspan fill="#60A5FA" font-weight="700"> Verified Channels </tspan><tspan fill="#1E3A8A">───────────────────</tspan>
+    </text>
+    <text x="420" y="206" class="mono" font-size="12">
+      <tspan fill="#93C5FD">. Website: </tspan><tspan fill="#1E293B">.....................</tspan><tspan fill="#60A5FA"> https://abinvarghese.app</tspan>
+    </text>
+    <text x="420" y="226" class="mono" font-size="12">
+      <tspan fill="#93C5FD">. Email: </tspan><tspan fill="#1E293B">.......................</tspan><tspan fill="#FFFFFF"> toabinvarghese@gmail.com</tspan>
+    </text>
+    <text x="420" y="246" class="mono" font-size="12">
+      <tspan fill="#93C5FD">. GitHub: </tspan><tspan fill="#1E293B">......................</tspan><tspan fill="#FFFFFF"> github.com/AbinVarghexe</tspan>
+    </text>
+
+    <!-- Section 3: Telemetry & Metrics -->
+    <text x="420" y="278" class="mono" font-size="12">
+      <tspan fill="#2563EB">─</tspan><tspan fill="#60A5FA" font-weight="700"> GitHub Telemetry </tspan><tspan fill="#1E3A8A">────────────────────</tspan>
+    </text>
+    <text x="420" y="302" class="mono" font-size="12">
+      <tspan fill="#93C5FD">. Repos: </tspan><tspan fill="#1E293B">.........</tspan><tspan fill="#60A5FA" font-weight="700"> 38 </tspan>
+      <tspan fill="#2563EB">|</tspan>
+      <tspan fill="#93C5FD"> . Commits: </tspan><tspan fill="#1E293B">......</tspan><tspan fill="#60A5FA" font-weight="700"> 713+ </tspan>
+    </text>
+    <text x="420" y="322" class="mono" font-size="12">
+      <tspan fill="#93C5FD">. Streak: </tspan><tspan fill="#1E293B">........</tspan><tspan fill="#FFFFFF"> Active </tspan>
+      <tspan fill="#2563EB">|</tspan>
+      <tspan fill="#93C5FD"> . Access: </tspan><tspan fill="#1E293B">.......</tspan><tspan fill="#60A5FA"> Verified Human</tspan>
+    </text>
+
+    <!-- Bottom Pulse Indicator -->
+    <circle cx="426" cy="346" r="3.5" fill="#3B82F6">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="438" y="350" class="mono" font-size="10" fill="#93C5FD">SYSTEM OPERATIONAL &#8226; 2026 EDITION</text>
+  </g>
+</svg>

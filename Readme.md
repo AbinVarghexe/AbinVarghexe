@@ -7,29 +7,10 @@
 
 <br/><br/>
 
-<!-- Real Profile Image with Clean Apple Squircle Border paired with ASCII Telemetry -->
-<table border="0" style="border: none;">
-  <tr>
-    <td align="center" style="border: none; padding-right: 28px;">
-      <a href="https://www.abinvarghese.app/">
-        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/profile.png?v=3" width="180" height="180" style="border-radius: 28px; border: 2px solid #3B82F6;" alt="Abin Varghese" />
-      </a>
-    </td>
-    <td align="left" style="border: none;">
-<pre>
- █▀█ █▄▄ █ █▄ █   █ █ █▀█ █▀█ █▀▀ █ █ █▀▀ █▀▀ █▀▀
- █▀█ █▄█ █ █ ▀█   ▀▄▀ █▀█ █▀▄ █▄█ █▀█ ██▄ ▄▄█ ██▄
- ────────────────────────────────────────────────
- <b>IDENTITY</b>   &bull; Abin Varghese
- <b>ROLE</b>       &bull; Full-Stack Engineer &bull; UI/UX Designer
- <b>LOCATION</b>   &bull; Idukki, Kerala, India [09°51'N 76°58'E]
- <b>FOCUS</b>      &bull; High-Performance Systems &bull; Thoughtful Interfaces
- <b>PALETTE</b>    &bull; #070A10 &bull; #3B82F6 &bull; #FFFFFF &bull; #A1A1AA
- <b>PHILOSOPHY</b> &bull; "Purpose in Design &bull; Precision in Code"
-</pre>
-    </td>
-  </tr>
-</table>
+<!-- GitAscii Animated Terminal Portrait & Neofetch System Deck (Blue & White Theme) -->
+<a href="https://www.abinvarghese.app/">
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/gitascii_profile.svg?v=1" width="100%" alt="GitAscii Profile &amp; Terminal Deck" />
+</a>
 
 <!-- Dynamic Typewriter Animation in Electric Blue -->
 <a href="https://www.abinvarghese.app/">
