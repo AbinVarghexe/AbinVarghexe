@@ -1,76 +1,123 @@
-<img align="right" src="https://wakatime.com/badge/user/f61bb49b-74df-42eb-86c0-8bbe389ae7d4.svg" alt="views" /><img align="left" src="https://komarev.com/ghpvc/?username=AbinVarghexe" alt="views" />
+<div align="center">
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Cocogoose&weight=900&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=Hai..!!+%F0%9F%91%8B+I%27m+Abin+Varghese" /></h1>
+<!-- GitAscii Adaptive Profile (ASCII Portrait, Editorial Info Deck & Social Badges) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/light.svg?v=16">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=16" width="100%">
+</picture>
 
-<h3><b>Check out my Portfolio</b> <a href="https://abinvarghese.app">Abin.web 😁</a></h3>
+<!-- Active Social Radar Pills -->
+<p align="center">
+  <a href="https://www.instagram.com/abeeeein/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/pills/instagram.svg?v=16" height="42" alt="Instagram" /></a>&nbsp;
+  <a href="mailto:toabinvarghese@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/pills/gmail.svg?v=16" height="42" alt="Gmail" /></a>&nbsp;
+  <a href="https://www.abinvarghese.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/pills/portfolio.svg?v=16" height="42" alt="Portfolio / Web" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/toabinvarghese/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/pills/linkedin.svg?v=16" height="42" alt="LinkedIn" /></a>
+</p>
+
 <br/>
+
+<!-- GitHub Contribution & GitHub Stats (Immediately After GitAscii Card) -->
+<table border="0" style="border: none;">
+  <tr>
+    <td align="center" style="border: none; padding: 6px;">
+      <a href="https://github.com/AbinVarghexe">
+        <img src="https://streak-stats.vercel.app/?user=AbinVarghexe&theme=dark&background=080D1A&border=1E3A8A&stroke=7DA3F6&ring=7DA3F6&fire=7DA3F6&currStreakNum=FFFFFF&sideNums=A1A1AA&currStreakLabel=7DA3F6&sideLabels=9CA3AF&dates=6B7280&hide_border=false" width="410" alt="Streak Stats" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 6px;">
+      <a href="https://github.com/AbinVarghexe">
+        <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=AbinVarghexe&show_icons=true&bg_color=080D1A&title_color=FFFFFF&text_color=9CA3AF&icon_color=7DA3F6&border_color=1E3A8A&hide_border=false&rank_icon=github" width="410" alt="GitHub Metrics" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinVarghexe&theme=github-compact&height=400&point=3461eb&line=6aa66a&area_color=3e3e40&area=true&hide_border=true&custom_title=My%20This%20Month%27s%20Activity%20Graph%20%F0%9F%98%89&radius=4" alt="GitHub Activity Graph" />
+
+## About
+
 </div>
-<br/>
-<br/>
 
-<div align="center" style="width: 30%; max-width: 200px; height: 30px;">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1307f8&bar_color_cover=false"
-         alt="Spotify Now Playing" 
-         style="width: 40%; height: 40%;"/>
-  </a>
-</div>
-<br/>
-<br/>
-
-
-<p>I'm a passionate Full-Stack Developer from India, dedicated to crafting seamless, user-friendly software. 🎨📱 With expertise across both front-end and back-end technologies, I aim to create solutions that balance functionality and intuitive user experiences. 🚀💻</p>
-
-<br/>
-
-<h2 align="left"><b>Connect with me:</b></h2>
-<p align="left">
-  <a href="https://x.com/ABIN_VARGHESE_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbinVarghexe" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/toabinvarghese/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarnathcdj" height="30" width="40" /></a>
-  <a href="mailto:toabinvarghese" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/email-open.png" alt="AbinVarghexe" height="40" width="40" /></a>
+<p align="justify">
+I started out being drawn to visuals, layout systems, and design tools. Over time, that pulled me deeper into frontend engineering and product building, and now I enjoy working on projects where I can shape both the interface and the implementation.
+<br/><br/>
+Currently studying Computer Science and Engineering with a Minor in VLSI at Amal Jyothi College of Engineering (2023&ndash;Present). I approach every project as a real-world product rather than a simple exercise, focusing on solving complex problems and transforming rough concepts into polished, intuitive systems.
 </p>
 
-<br/>
+---
 
-<h2><b>About Me</b></h2>
-<br/>
-<p>Hi! I’m Abin Varghese, a Full-Stack Developer and Design Enthusiast from India. 🇮🇳💻 I started my coding journey two years ago, and I’m driven by a passion for creating visually appealing, user-centric applications. 🎨✨ My primary goal is to make technology more accessible 🌐 and impactful through thoughtful design 🎯 and seamless functionality. 🚀📱 Every project is an opportunity to bring ideas to life and push boundaries! 💡🔧</b></p>
-<p><b>My technical skills include React ⚛️, Next.js 🌐, HTML/CSS 🎨, along with a foundation in Python 🐍 , C 💻, and Java ☕. Currently, I’m focused on honing my design skills alongside my coding knowledge to deliver intuitive, user-friendly experiences across web applications. ✨📱</p>
+<div align="center">
 
-<br/>
-
-<h2 align="center"><b>🌐 Languages-Frameworks-Tools I’m using 🌐</b></h2>
-<br/>
+## Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,github,react,nextjs,python,java,unity" />
-    <img src="https://skillicons.dev/icons?i=unreal,blender,figma,ps,ae,pr,ai,md" />
-    <img src="https://skillicons.dev/icons?i=vscode,js,html,tailwind,css,sass,mongodb,vercel" />
-    <img src="https://skillicons.dev/icons?i=express,bootstrap,npm,nodejs,redux,ts,threejs,linux" />
-  </a>
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/python.svg?v=16" width="40" height="40" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/javascript.svg?v=16" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/react.svg?v=16" width="40" height="40" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/html5.svg?v=16" width="40" height="40" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/c.svg?v=16" width="40" height="40" alt="C" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/sql.svg?v=16" width="40" height="40" alt="SQL" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/linux.svg?v=16" width="40" height="40" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/docker.svg?v=16" width="40" height="40" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/git.svg?v=16" width="40" height="40" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/githubactions.svg?v=16" width="40" height="40" alt="GitHub Actions" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/cloudflare.svg?v=16" width="40" height="40" alt="Cloudflare" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/googlecloud.svg?v=16" width="40" height="40" alt="Google Cloud" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/claude.svg?v=16" width="40" height="40" alt="Claude" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/chatgpt.svg?v=16" width="40" height="40" alt="ChatGPT" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/gemini.svg?v=16" width="40" height="40" alt="Gemini" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/assets/icons/kimi.svg?v=16" width="40" height="40" alt="Kimi" />
 </p>
 
-<hr>
+</div>
 
-<div align='center'>
-<h2 align="left"><b>Past Works</b></h2>
+---
 
-[![InternHub](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=AbinVarghexe&repo=intern-hub&theme=dark&hide_border=true)](https://github.com/AbinVarghexe/intern-hub) &nbsp;
-[![GoGram](https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=AbinVarghexe&repo=ABINFLIX&theme=dark&hide_border=true)](https://github.com/AbinVarghexe/ABINFLIX) &nbsp;
+<div align="center">
 
-<h2 align="left"><b>Github Stats</b></h2>
+## Activity &amp; Atmosphere
 
-![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AbinVarghexe/github-stats/master/generated/overview.svg#gh-light-mode-only)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinVarghexe&theme=dark&hide_border=true" alt="GitHub Streak Stats">
-<br/>
+<!-- Living Git-Koi, 3D Contribution Bar Chart & Spotify Stream in 3 Columns -->
+<table border="0" style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td align="center" width="22%" style="border: none; padding: 6px; vertical-align: middle;">
+      <a href="https://github.com/yalongwastaken/git-koi">
+        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/koi/koi.gif?v=16" width="180" alt="Living Git-Koi" />
+      </a>
+    </td>
+    <td align="center" width="46%" style="border: none; padding: 6px; vertical-align: middle;">
+      <a href="https://github.com/AbinVarghexe">
+        <img src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profile-3d-contrib/profile-night-view.svg?v=16" width="100%" alt="3D Isometric Contribution Bar Chart" style="border-radius: 12px; border: 1px solid #1E3A8A;" />
+      </a>
+    </td>
+    <td align="center" width="32%" style="border: none; padding: 6px; vertical-align: middle;">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&amp;redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrqlum336xkehtdre7c2us46ny&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" width="100%" alt="Spotify Player" style="border-radius: 12px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+</div>
 
+---
+
+<div align="center">
+
+<!-- GitAscii Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-dark.svg?v=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-light.svg?v=16">
+  <img alt="GitAscii Footer" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-dark.svg?v=16" width="100%">
+</picture>
 
 </div>
