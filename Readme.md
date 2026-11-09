@@ -2,9 +2,9 @@
 
 <!-- GitAscii Adaptive Profile (ASCII Portrait, Editorial Info Deck & Social Badges) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/light.svg?v=16">
-  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/dark.svg?v=16" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profiles/default/dark.svg?v=17">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profiles/default/light.svg?v=17">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profiles/default/dark.svg?v=17" width="100%">
 </picture>
 
 <!-- Active Social Radar Pills -->
@@ -106,18 +106,5 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- GitAscii Footer -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-dark.svg?v=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-light.svg?v=16">
-  <img alt="GitAscii Footer" src="https://raw.githubusercontent.com/abinvarghexe/abinvarghexe/gitascii/profiles/default/footer-dark.svg?v=16" width="100%">
-</picture>
 
 </div>
