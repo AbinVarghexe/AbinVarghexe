@@ -108,3 +108,16 @@ Currently studying Computer Science and Engineering with a Minor in VLSI at Amal
 </table>
 
 </div>
+
+---
+
+<div align="center">
+
+<!-- GitAscii Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profiles/default/footer-dark.svg?v=17">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profiles/default/footer-light.svg?v=17">
+  <img alt="GitAscii Footer" src="https://raw.githubusercontent.com/AbinVarghexe/AbinVarghexe/main/profiles/default/footer-dark.svg?v=17" width="100%">
+</picture>
+
+</div>
